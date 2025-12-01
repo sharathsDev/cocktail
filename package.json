@@ -1,0 +1,22 @@
+{
+  "name": "cocktails",
+  "version": "1.0.0",
+  "description": "Cocktail data validator with file watching",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-cocktails.js",
+    "watch:validate": "node scripts/watch-cocktails.js",
+    "dev": "node scripts/watch-cocktails.js"
+  },
+  "keywords": ["cocktails", "validator"],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.20.0",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "chalk": "^5.6.2",
+    "chokidar": "^5.0.0"
+  }
+}

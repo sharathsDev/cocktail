@@ -1,0 +1,550 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "alternateNames",
+    "category",
+    "type",
+    "tags",
+    "imageUrl",
+    "thumbnailUrl",
+    "drinkColor",
+    "mood",
+    "warnings",
+    "ingredients",
+    "garnishOptions",
+    "instructions",
+    "difficulty",
+    "timeToPrepare",
+    "servings",
+    "glassType",
+    "iceType",
+    "garnish",
+    "tasteProfile",
+    "aromaProfile",
+    "alcoholPercentage",
+    "totalAlcoholML",
+    "baseSpirits",
+    "nutrition",
+    "equipmentNeeded",
+    "bestOccasions",
+    "season",
+    "vibe",
+    "skillLevelNeeded",
+    "ratingAvg",
+    "ratingCount",
+    "isFavorite",
+    "originCountry",
+    "creatorName",
+    "createdYear",
+    "nameOrigin",
+    "history",
+    "funFacts",
+    "variations",
+    "metadata",
+    "tips",
+    "healthProfile"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z_]+_\\d{3}$",
+      "description": "Unique identifier in format: [cocktail_name_lowercase]_###"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Official cocktail name"
+    },
+    "alternateNames": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Alternative names for the cocktail"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Whiskey",
+        "Vodka",
+        "Gin",
+        "Rum",
+        "Tequila",
+        "Brandy",
+        "Liqueur",
+        "Wine",
+        "Beer",
+        "Non-Alcoholic",
+        "Mixed"
+      ],
+      "description": "Primary spirit category"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "Alcoholic",
+        "Non-Alcoholic",
+        "Mocktail"
+      ],
+      "description": "Type of drink"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "description": "Style tags (e.g., Classic, Tiki, Sour, Sweet)"
+    },
+    "imageUrl": {
+      "type": "string",
+      "pattern": "^images/[a-z_]+\\.(jpg|jpeg|png|webp)$",
+      "description": "Path to full-size image"
+    },
+    "thumbnailUrl": {
+      "type": "string",
+      "pattern": "^thumbs/[a-z_]+\\.(jpg|jpeg|png|webp)$",
+      "description": "Path to thumbnail image"
+    },
+    "drinkColor": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Visual color description"
+    },
+    "mood": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "description": "Mood associations"
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Safety and allergen warnings"
+    },
+    "ingredients": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "quantity",
+          "unit",
+          "type"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "quantity": {
+            "type": "number",
+            "minimum": 0
+          },
+          "unit": {
+            "type": "string",
+            "enum": [
+              "ml",
+              "oz",
+              "dash",
+              "piece",
+              "drop",
+              "leaf",
+              "sprig",
+              "tsp",
+              "tbsp",
+              "cup",
+              "g",
+              "mg",
+              "pinch"
+            ]
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "alcohol",
+              "bitter",
+              "sweetener",
+              "juice",
+              "mix",
+              "ice",
+              "garnish",
+              "soda",
+              "syrup",
+              "cream",
+              "other",
+              "spice",
+              "liqueur"
+            ]
+          }
+        }
+      }
+    },
+    "garnishOptions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "type",
+          "use"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "citrus",
+              "fruit",
+              "herb",
+              "vegetable",
+              "other",
+              "spice",
+              "flower",
+              "syrup",
+              "bitter"
+            ]
+          },
+          "use": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "instructions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "description": "Step-by-step preparation instructions"
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": [
+        "Easy",
+        "Medium",
+        "Hard",
+        "Expert"
+      ],
+      "description": "Preparation difficulty level"
+    },
+    "timeToPrepare": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Preparation time in minutes"
+    },
+    "servings": {
+      "type": "number",
+      "minimum": 1,
+      "description": "Number of servings"
+    },
+    "glassType": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Type of glass to use"
+    },
+    "iceType": {
+      "type": "string",
+      "description": "Type of ice (Cubed/Crushed/Large cube/None)"
+    },
+    "garnish": {
+      "type": "string",
+      "description": "Primary garnish description"
+    },
+    "tasteProfile": {
+      "type": "object",
+      "required": [
+        "sweetness",
+        "bitterness",
+        "sourness",
+        "strength",
+        "refreshing",
+        "flavorNotes"
+      ],
+      "properties": {
+        "sweetness": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "bitterness": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "sourness": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "strength": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "refreshing": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "flavorNotes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "aromaProfile": {
+      "type": "object",
+      "required": [
+        "primary",
+        "secondary",
+        "intensity"
+      ],
+      "properties": {
+        "primary": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        },
+        "secondary": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "intensity": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        }
+      }
+    },
+    "alcoholPercentage": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Estimated alcohol by volume percentage"
+    },
+    "totalAlcoholML": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Total pure alcohol content in ml"
+    },
+    "baseSpirits": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Primary spirits used"
+    },
+    "nutrition": {
+      "type": "object",
+      "required": [
+        "calories",
+        "carbs",
+        "sugar"
+      ],
+      "properties": {
+        "calories": {
+          "type": "number",
+          "minimum": 0
+        },
+        "carbs": {
+          "type": "number",
+          "minimum": 0
+        },
+        "sugar": {
+          "type": "number",
+          "minimum": 0
+        }
+      }
+    },
+    "equipmentNeeded": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Required equipment"
+    },
+    "bestOccasions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Suitable occasions"
+    },
+    "season": {
+      "type": "string",
+      "enum": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter",
+        "All"
+      ],
+      "description": "Best season to serve"
+    },
+    "vibe": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Overall character and atmosphere"
+    },
+    "skillLevelNeeded": {
+      "type": "string",
+      "enum": [
+        "Beginner",
+        "Intermediate",
+        "Advanced",
+        "Expert"
+      ],
+      "description": "Required bartending skill level"
+    },
+    "ratingAvg": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 5,
+      "description": "Average rating (0-5)"
+    },
+    "ratingCount": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Number of ratings"
+    },
+    "isFavorite": {
+      "type": "boolean",
+      "description": "Marked as favorite"
+    },
+    "originCountry": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Country of origin"
+    },
+    "creatorName": {
+      "type": "string",
+      "description": "Creator name or 'Unknown'"
+    },
+    "createdYear": {
+      "type": "number",
+      "minimum": 1000,
+      "maximum": 2100,
+      "description": "Year created (approximate)"
+    },
+    "nameOrigin": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Explanation of the name"
+    },
+    "history": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Historical background"
+    },
+    "funFacts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Interesting facts"
+    },
+    "variations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "difference"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "difference": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "keywords",
+        "updatedAt",
+        "addedByUser"
+      ],
+      "properties": {
+        "keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 date-time"
+        },
+        "addedByUser": {
+          "type": "boolean"
+        }
+      }
+    },
+    "tips": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Professional tips"
+    },
+    "healthProfile": {
+      "type": "object",
+      "required": [
+        "healthyStar",
+        "lowSugar",
+        "lowCalories",
+        "lowAlcohol",
+        "notes"
+      ],
+      "properties": {
+        "healthyStar": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "lowSugar": {
+          "type": "boolean"
+        },
+        "lowCalories": {
+          "type": "boolean"
+        },
+        "lowAlcohol": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

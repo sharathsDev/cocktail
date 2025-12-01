@@ -1,0 +1,6565 @@
+[
+  {
+    "id": "black_and_tan_001",
+    "name": "Black and Tan",
+    "alternateNames": [
+      "Black & Tan",
+      "Half and Half"
+    ],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Layered",
+      "Classic",
+      "Stout & Pale Ale"
+    ],
+    "imageUrl": "images/black_and_tan.jpg",
+    "thumbnailUrl": "thumbs/black_and_tan.png",
+    "drinkColor": "Dark brown over tan",
+    "mood": [
+      "Relaxed",
+      "Casual",
+      "Social"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Pale Ale or Lager",
+        "quantity": 240,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Stout or Porter beer",
+        "quantity": 240,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Chill both beers before pouring.",
+      "Fill a chilled pint glass halfway with the pale ale or lager.",
+      "Hold a spoon (bar spoon or special layering spoon) upside down over the glass just above the pale ale surface.",
+      "Slowly and gently pour the stout or porter over the back of the spoon so it floats on top, creating two distinct layers.",
+      "Serve immediately, without ice."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Pint glass",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 3,
+      "bitterness": 5,
+      "sourness": 1,
+      "strength": 4,
+      "refreshing": 4,
+      "flavorNotes": [
+        "Malt",
+        "Roasty stout",
+        "Light hops",
+        "Bready ale"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Roasted malt",
+        "Bread/Grain"
+      ],
+      "secondary": [
+        "Light hops",
+        "Dark beer bitterness"
+      ],
+      "intensity": 5
+    },
+    "alcoholPercentage": 5,
+    "totalAlcoholML": 12,
+    "baseSpirits": [],
+    "nutrition": {
+      "calories": 170,
+      "carbs": 10,
+      "sugar": 1
+    },
+    "equipmentNeeded": [
+      "Pint glass",
+      "Bar spoon (or layering spoon)"
+    ],
+    "bestOccasions": [
+      "Casual gathering",
+      "Pub night",
+      "Sport watching",
+      "Barbecue"
+    ],
+    "season": "All",
+    "vibe": "Casual and easy‑going layered beer mix",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.0,
+    "ratingCount": 500,
+    "isFavorite": false,
+    "originCountry": "England",
+    "creatorName": "Unknown",
+    "createdYear": 1700,
+    "nameOrigin": "From the contrasting colors — dark 'black' stout over pale 'tan' ale",
+    "history": "Beer blending has been common in English alehouses since at least the 17th century. The term “Black and Tan” in reference to a beer mix appeared in print in 1881 in an American magazine; the first British reference is from 1889. The drink traditionally combines a pale ale or lager with a stout or porter. The layering effect is possible because stout has a lower density and floats atop the lighter beer. Although commonly associated with Ireland in modern pubs, the name can be politically sensitive there due to a historical paramilitary force called the Black and Tans — in Ireland the drink is often ordered as a “Half and Half.”",
+    "funFacts": [
+      "The classic version uses English Bass Pale Ale and Irish Guinness Draught stout.",
+      "Some modern breweries sell ready‑mixed “Black & Tan” beer.",
+      "A specially bent spoon is often used to pour the stout gently and preserve the layers."
+    ],
+    "variations": [
+      {
+        "name": "Half and Half",
+        "difference": "Same drink but alternate name, especially used in Ireland (pale lager or ale + stout)."
+      },
+      {
+        "name": "Custom Layered Beer",
+        "difference": "Use any pale ale or lager and any stout/porter — layering works if densities differ."
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "black and tan",
+        "layered beer",
+        "beer cocktail",
+        "pint glass",
+        "stout pale ale"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use chilled beers — colder liquid helps maintain density difference.",
+      "Pour the stout slowly over the back of a spoon to avoid mixing layers.",
+      "If you pour stout too fast the beers will mix and you lose the layered look."
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": true,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Contains moderate calories and low sugar; alcohol content typical for beers."
+    }
+  },
+  {
+    "id": "black_velvet_001",
+    "name": "Black Velvet",
+    "alternateNames": [
+      "Champagne & Stout Cocktail"
+    ],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Stout",
+      "Sparkling wine",
+      "Layered",
+      "Classic"
+    ],
+    "imageUrl": "images/black_velvet.jpg",
+    "thumbnailUrl": "thumbs/black_velvet.png",
+    "drinkColor": "Dark over golden",
+    "mood": [
+      "Elegant",
+      "Celebratory",
+      "Casual"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Stout beer (e.g. Guinness)",
+        "quantity": 120,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Dry sparkling wine (e.g. Champagne)",
+        "quantity": 120,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Chill both the stout and the sparkling wine, and chill a champagne flute or tall glass.",
+      "Pour the chilled stout beer into the glass to about half full.",
+      "Using a bar spoon (or regular spoon) turned upside down, gently pour the chilled sparkling wine over the back of the spoon so it floats atop the stout.",
+      "Serve immediately without ice."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Champagne flute",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 3,
+      "bitterness": 4,
+      "sourness": 2,
+      "strength": 5,
+      "refreshing": 6,
+      "flavorNotes": [
+        "Roasted malt",
+        "Dry sparkling wine",
+        "Light carbonation"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Roasted malt",
+        "Yeast",
+        "Sparkling wine bubbles"
+      ],
+      "secondary": [
+        "Light toastiness",
+        "Wine dryness"
+      ],
+      "intensity": 5
+    },
+    "alcoholPercentage": 6,
+    "totalAlcoholML": 14,
+    "baseSpirits": [],
+    "nutrition": {
+      "calories": 150,
+      "carbs": 5,
+      "sugar": 1
+    },
+    "equipmentNeeded": [
+      "Champagne flute",
+      "Bar spoon"
+    ],
+    "bestOccasions": [
+      "Celebration",
+      "Brunch",
+      "Holiday toast",
+      "Casual drinks night"
+    ],
+    "season": "All",
+    "vibe": "Elegant yet easy‑going celebration drink",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.1,
+    "ratingCount": 800,
+    "isFavorite": false,
+    "originCountry": "England",
+    "creatorName": "Bartender at Brooks’s Club, London",
+    "createdYear": 1861,
+    "nameOrigin": "Named for the dark stout (‘black’) over sparkling wine (‘velvet’ colour), evocative of mourning dress tradition",
+    "history": "The cocktail was first created in 1861 at Brooks’s Club in London to mourn the death of Prince Albert, consort to Queen Victoria. The stout’s dark colour symbolised mourning, layered over celebratory sparkling wine. Over time it evolved into an elegant yet simple mixed drink for celebrations. :contentReference[oaicite:0]{index=0}",
+    "funFacts": [
+      "Originally created as a mourning cocktail for Prince Albert’s death. :contentReference[oaicite:1]{index=1}",
+      "Often made with stout and champagne, but sparkling wine, cider or perry can be used in variations. :contentReference[oaicite:2]{index=2}",
+      "Despite its somber origins, today it's typically enjoyed at brunches, celebrations, and parties. :contentReference[oaicite:3]{index=3}"
+    ],
+    "variations": [
+      {
+        "name": "Poor Man’s Black Velvet",
+        "difference": "Replace the sparkling wine with apple cider or perry, layered with stout."
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "black velvet",
+        "stout cocktail",
+        "champagne beer mix",
+        "layered beer drink"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Chill both the stout and sparkling wine thoroughly to help the layers remain distinct.",
+      "Pour the sparkling wine slowly over the back of a spoon to avoid mixing layers.",
+      "Serve in a chilled champagne flute for best presentation."
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": true,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Moderate alcohol and calories typical of a beer‑wine mixed drink"
+    }
+  },
+  {
+    "id": "boilermaker_001",
+    "name": "Boilermaker",
+    "alternateNames": [
+      "Beer & Shot",
+      "Shot and a Beer",
+      "Depth Charge"
+    ],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Whiskey",
+      "Classic",
+      "Shooters"
+    ],
+    "imageUrl": "images/boilermaker.jpg",
+    "thumbnailUrl": "thumbs/boilermaker.png",
+    "drinkColor": "Golden to amber (from beer) with whiskey hue",
+    "mood": [
+      "Down‑to‑earth",
+      "Casual",
+      "Working‑class",
+      "After‑work"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Whiskey or Bourbon (shot)",
+        "quantity": 45,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Beer (lager or ale)",
+        "quantity": 350,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Chill the beer and whiskey if desired.",
+      "Pour the whiskey into a shot glass.",
+      "Pour the beer into a pint or beer glass (about 3/4 full).",
+      "Serve the beer glass alongside the shot glass.",
+      "Drink the whiskey (shoot) and then chase with the beer.",
+      "Alternatively, drop the shot glass into the beer and drink immediately (depth‑charge style), if preferred."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 1,
+    "servings": 1,
+    "glassType": "Pint glass for beer + shot glass for whiskey",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 2,
+      "bitterness": 4,
+      "sourness": 0,
+      "strength": 6,
+      "refreshing": 4,
+      "flavorNotes": [
+        "Malt",
+        "Grain",
+        "Whiskey burn",
+        "Light hops"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Beer malt",
+        "Grainy whiskey"
+      ],
+      "secondary": [
+        "Alcohol warmth",
+        "Light hops / yeast"
+      ],
+      "intensity": 6
+    },
+    "alcoholPercentage": 5,
+    "totalAlcoholML": 45,
+    "baseSpirits": [
+      "Whiskey"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "carbs": 13,
+      "sugar": 1
+    },
+    "equipmentNeeded": [
+      "Pint glass",
+      "Shot glass"
+    ],
+    "bestOccasions": [
+      "After work",
+      "Casual bar night",
+      "Sport watching",
+      "Party"
+    ],
+    "season": "All",
+    "vibe": "Rough‑and‑ready, no‑frills, classic American",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.2,
+    "ratingCount": 1200,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Unknown (popularised among railroad/industrial workers)",
+    "createdYear": 1890,
+    "nameOrigin": "Named after 19th‑century boiler workers (boilermakers) who would drink whiskey and beer after work. :contentReference[oaicite:0]{index=0}",
+    "history": "In 19th‑century America, workers who built and maintained steam boilers — known as boilermakers — would often end their shifts by drinking a shot of whiskey followed by a beer. The combination gradually became known simply as a “Boilermaker.” :contentReference[oaicite:1]{index=1} Over time it became a go‑to working‑class drink and later spread into wider bar culture. :contentReference[oaicite:2]{index=2}",
+    "funFacts": [
+      "Originally a working‑class ritual among railroad and boiler workers. :contentReference[oaicite:3]{index=3}",
+      "Can be served two ways: shot then beer chaser, or shot dropped into beer (depth charge / bomb style). :contentReference[oaicite:4]{index=4}",
+      "Modern craft cocktail bars sometimes reimagine the Boilermaker with creative beer and whiskey (or other spirit) pairings. :contentReference[oaicite:5]{index=5}"
+    ],
+    "variations": [
+      {
+        "name": "Depth Charge",
+        "difference": "Whiskey shot dropped directly into beer glass, then consumed immediately"
+      },
+      {
+        "name": "Craft Boilermaker",
+        "difference": "Use a craft beer (IPA, stout, etc.) and a complementary whiskey (bourbon, rye, Scotch) to create more nuanced flavours"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "boilermaker",
+        "beer cocktail",
+        "beer and whiskey",
+        "shot and beer"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a light lager or ale if you want a milder beer‑chaser; stronger beers (IPA, stout) will increase bitterness and fullness.",
+      "Drink the whiskey first to appreciate its flavor before the beer washes it down.",
+      "If dropping the shot into the beer, ensure the beer glass is large enough to avoid overflow.",
+      "Chilling beer helps make the drink more refreshing and smooth."
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": true,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High alcohol content and moderate calories; minimal sugar"
+    }
+  },
+  {
+    "id": "hangmans_blood_001",
+    "name": "Hangman's Blood",
+    "alternateNames": [
+      "Hangmans Blood"
+    ],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Spirits heavy",
+      "Stout",
+      "Champagne",
+      "Classic/Literary"
+    ],
+    "imageUrl": "images/hangmans_blood.jpg",
+    "thumbnailUrl": "thumbs/hangmans_blood.png",
+    "drinkColor": "Dark amber to deep brown with frothy top",
+    "mood": [
+      "Boozy",
+      "Reckless",
+      "Raucous",
+      "Intense"
+    ],
+    "warnings": [
+      "Very high alcohol content — drink responsibly"
+    ],
+    "ingredients": [
+      {
+        "name": "Gin",
+        "quantity": 37.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Rum",
+        "quantity": 37.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Whiskey",
+        "quantity": 37.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Brandy",
+        "quantity": 37.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Port wine",
+        "quantity": 37.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Stout beer (e.g., porter or Guinness)",
+        "quantity": 150,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Champagne (or sparkling wine)",
+        "quantity": 120,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Chill all ingredients (spirits, stout, champagne) beforehand.",
+      "Pour the gin, rum, whiskey, brandy, and port into a chilled pint glass (or large goblet).",
+      "Add the stout beer to the glass.",
+      "Carefully top up with chilled Champagne (or sparkling wine).",
+      "Serve immediately — no ice."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Pint glass (or large goblet)",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 3,
+      "bitterness": 5,
+      "sourness": 1,
+      "strength": 9,
+      "refreshing": 2,
+      "flavorNotes": [
+        "Dark beer malt",
+        "Rich brandy & port fruitiness",
+        "Warm whiskey/rum body",
+        "Sparkling wine dryness"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Malt and stout",
+        "Dark spirits warmth"
+      ],
+      "secondary": [
+        "Port wine fruitiness",
+        "Champagne bubbles"
+      ],
+      "intensity": 9
+    },
+    "alcoholPercentage": 18,
+    "totalAlcoholML": 150,
+    "baseSpirits": [
+      "Gin",
+      "Rum",
+      "Whiskey",
+      "Brandy",
+      "Port wine"
+    ],
+    "nutrition": {
+      "calories": 650,
+      "carbs": 25,
+      "sugar": 8
+    },
+    "equipmentNeeded": [
+      "Pint glass (or large goblet)"
+    ],
+    "bestOccasions": [
+      "Big parties",
+      "Bachelor night",
+      "Dare-type celebrations"
+    ],
+    "season": "All",
+    "vibe": "Wild, over-the-top, literary and reckless",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 3.8,
+    "ratingCount": 200,
+    "isFavorite": false,
+    "originCountry": "England",
+    "creatorName": "First described by Richard Hughes (fictional)",
+    "createdYear": 1929,
+    "nameOrigin": "Evocative, ominous name from literary origin",
+    "history": "First described in the 1929 novel 'A High Wind in Jamaica' by Richard Hughes: initially as a mix of rum, gin, brandy and porter/beer. A later expanded version — attributed to Anthony Burgess — adds whiskey, port wine, stout, and tops with champagne.",
+    "funFacts": [
+      "Originally a fictional drink from a 1929 novel.",
+      "Because of its many high-proof components, it’s considered one of the most potent beer cocktails.",
+      "Billed as 'refreshing as it tastes' in the original but infamous for 'demolishing the whole fort.'"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "hangmans blood",
+        "beer cocktail",
+        "stout champagne cocktail",
+        "literary cocktail"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use well-chilled stout and champagne to keep the drink more drinkable.",
+      "Pour stout first then top with champagne gently to reduce foaming.",
+      "Because it's extremely strong, sip slowly or consider sharing."
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Very high alcohol and calories — treat it as a sparing occasional indulgence."
+    }
+  },
+  {
+    "id": "irish_car_bomb_001",
+    "name": "Irish Car Bomb",
+    "alternateNames": [
+      "Irish Slámer",
+      "Belfast Car Bomb"
+    ],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Stout",
+      "Bomb shot",
+      "Classic"
+    ],
+    "imageUrl": "images/irish_car_bomb.jpg",
+    "thumbnailUrl": "thumbs/irish_car_bomb.png",
+    "drinkColor": "Dark stout with creamy shot",
+    "mood": [
+      "Party",
+      "Bold",
+      "Fun",
+      "Celebratory"
+    ],
+    "warnings": [
+      "Drink immediately after dropping shot – cream may curdle"
+    ],
+    "ingredients": [
+      {
+        "name": "Stout beer (e.g. Guinness)",
+        "quantity": 300,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Irish cream liqueur (e.g. Baileys)",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Irish whiskey (e.g. Jameson)",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Pour stout into a pint glass until about ¾ full.",
+      "In a shot glass, pour the Irish cream first, then layer the whiskey on top by pouring over the back of a spoon.",
+      "Drop the shot glass into the stout and drink immediately."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Pint glass + shot glass",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 4,
+      "bitterness": 4,
+      "sourness": 0,
+      "strength": 7,
+      "refreshing": 2,
+      "flavorNotes": [
+        "Roasted stout",
+        "Creamy liqueur",
+        "Whiskey warmth"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Stout malt",
+        "Cream liqueur"
+      ],
+      "secondary": [
+        "Whiskey oak",
+        "Ethanol warmth"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 8,
+    "totalAlcoholML": 30,
+    "baseSpirits": [
+      "Irish whiskey",
+      "Irish cream liqueur"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "carbs": 8,
+      "sugar": 4
+    },
+    "equipmentNeeded": [
+      "Pint glass",
+      "Shot glass",
+      "Bar spoon"
+    ],
+    "bestOccasions": [
+      "St. Patrick's Day",
+      "Party",
+      "Night out"
+    ],
+    "season": "All",
+    "vibe": "High‑energy, party‑style bomb shot",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 3.5,
+    "ratingCount": 1000,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Charles Burke Cronin Oat",
+    "createdYear": 1979,
+    "nameOrigin": "Reference to 'bomb shot' style and Irish components",
+    "history": "Invented in 1979 in Norwich, Connecticut by Charles Burke Cronin Oat, by dropping a shot of Irish cream + whiskey into a pint of stout. :contentReference[oaicite:6]{index=6}",
+    "funFacts": [
+      "The drink must be consumed quickly because the cream will curdle when mixed with stout. :contentReference[oaicite:7]{index=7}",
+      "Due to sensitivities, many bartenders avoid using its original name in public menus. :contentReference[oaicite:8]{index=8}"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "irish car bomb",
+        "stout shot",
+        "beer cocktail",
+        "Guinness bomb"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Drop the shot glass only when ready to drink — don’t let it sit.",
+      "Use cold stout for best experience.",
+      "Drink quickly to avoid curdling."
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High alcohol and moderate calories; not meant for slow sipping."
+    }
+  },
+  {
+    "id": "michelada_001",
+    "name": "Michelada",
+    "alternateNames": [],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Spicy",
+      "Savory",
+      "Mexican"
+    ],
+    "imageUrl": "images/michelada.jpg",
+    "thumbnailUrl": "thumbs/michelada.png",
+    "drinkColor": "Light amber / reddish (if tomato/Clamato added)",
+    "mood": [
+      "Refreshing",
+      "Savory",
+      "Spicy",
+      "Casual"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Mexican lager",
+        "quantity": 355,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Fresh lime juice",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Worcestershire sauce",
+        "quantity": 5,
+        "unit": "ml",
+        "type": "other"
+      },
+      {
+        "name": "Hot sauce (e.g. Tabasco)",
+        "quantity": 3,
+        "unit": "dash",
+        "type": "other"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "tsp",
+        "type": "other"
+      },
+      {
+        "name": "Chilli powder or Tajín (for rim)",
+        "quantity": 1,
+        "unit": "tsp",
+        "type": "other"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lime wedge",
+        "type": "citrus",
+        "use": "Serve on rim"
+      }
+    ],
+    "instructions": [
+      "Rub a lime wedge around the rim of a tall glass and dip the rim in salt mixed with chili powder or Tajín.",
+      "Fill the glass with ice if desired.",
+      "Add lime juice, Worcestershire sauce, and a few shakes of hot sauce.",
+      "Pour in the chilled beer slowly.",
+      "Stir gently and garnish with a lime wedge."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 4,
+    "servings": 1,
+    "glassType": "Highball / Tall glass",
+    "iceType": "Cube",
+    "garnish": "Lime wedge",
+    "tasteProfile": {
+      "sweetness": 1,
+      "bitterness": 3,
+      "sourness": 5,
+      "strength": 4,
+      "refreshing": 7,
+      "flavorNotes": [
+        "Lime",
+        "Spice",
+        "Worcestershire umami",
+        "Light beer"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Citrus",
+        "Spice"
+      ],
+      "secondary": [
+        "Beer malt",
+        "Salt"
+      ],
+      "intensity": 5
+    },
+    "alcoholPercentage": 4.5,
+    "totalAlcoholML": 16,
+    "baseSpirits": [],
+    "nutrition": {
+      "calories": 120,
+      "carbs": 5,
+      "sugar": 1
+    },
+    "equipmentNeeded": [
+      "Tall glass",
+      "Jigger",
+      "Spoon"
+    ],
+    "bestOccasions": [
+      "Hot weather",
+      "Lunch",
+      "Barbecue",
+      "Casual drinks"
+    ],
+    "season": "Summer",
+    "vibe": "Spicy, refreshing, laid‑back",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.2,
+    "ratingCount": 800,
+    "isFavorite": false,
+    "originCountry": "Mexico",
+    "creatorName": "Unknown (traditional / folk origin)",
+    "createdYear": 1900,
+    "nameOrigin": "From Mexican slang 'mi chela helada' meaning 'my cold beer' (chela = beer, helada = cold) :contentReference[oaicite:9]{index=9}",
+    "history": "A traditional Mexican beer cocktail mixing beer with lime, spices, hot sauce and savory seasonings — popular as a refreshing and savory drink on hot days. :contentReference[oaicite:10]{index=10}",
+    "funFacts": [
+      "Often described as the beer version of a Bloody Mary. :contentReference[oaicite:11]{index=11}",
+      "Glass is usually rimmed with salt and chili for extra flavor contrast. :contentReference[oaicite:12]{index=12}"
+    ],
+    "variations": [
+      {
+        "name": "Clamato Michelada",
+        "difference": "Use Clamato (tomato + clam juice) or tomato juice for a richer, savory profile"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "michelada",
+        "mexican beer cocktail",
+        "spicy beer",
+        "beer with lime"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Chill the beer and ingredients before mixing for maximum refreshment",
+      "Adjust hot sauce, lime, and salt to your taste preference",
+      "Use a light lager for best balance"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": true,
+      "lowCalories": true,
+      "lowAlcohol": true,
+      "notes": "Low in sugar and calories relative to many cocktails; refreshing option"
+    }
+  },
+  {
+    "id": "monaco_001",
+    "name": "Monaco",
+    "alternateNames": [],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Sweet",
+      "Lemonade",
+      "Casual"
+    ],
+    "imageUrl": "images/monaco_cocktail.jpg",
+    "thumbnailUrl": "thumbs/monaco_cocktail.png",
+    "drinkColor": "Pink‑orange",
+    "mood": [
+      "Light",
+      "Summer",
+      "Casual",
+      "Fun"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Pale lager or light beer",
+        "quantity": 200,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Carbonated lemonade (or lemon‑lime soda)",
+        "quantity": 200,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Grenadine syrup",
+        "quantity": 10,
+        "unit": "ml",
+        "type": "syrup"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Pour grenadine into a chilled beer glass.",
+      "Slowly top up with equal parts cold beer and carbonated lemonade, tilting the glass to reduce foam.",
+      "Stir gently if needed and serve immediately."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Beer glass",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 2,
+      "sourness": 3,
+      "strength": 3,
+      "refreshing": 8,
+      "flavorNotes": [
+        "Sweet grenadine",
+        "Citrus lemonade",
+        "Light beer malt"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Lemonade citrus",
+        "Sweet syrup"
+      ],
+      "secondary": [
+        "Light beer malt"
+      ],
+      "intensity": 4
+    },
+    "alcoholPercentage": 3,
+    "totalAlcoholML": 8,
+    "baseSpirits": [],
+    "nutrition": {
+      "calories": 120,
+      "carbs": 15,
+      "sugar": 12
+    },
+    "equipmentNeeded": [
+      "Beer glass"
+    ],
+    "bestOccasions": [
+      "Summer day",
+      "Casual gathering",
+      "Light drinks"
+    ],
+    "season": "Summer",
+    "vibe": "Effervescent, sweet, and easygoing",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 3.8,
+    "ratingCount": 350,
+    "isFavorite": false,
+    "originCountry": "France",
+    "creatorName": "Attributed to George Booth",
+    "createdYear": 1980,
+    "nameOrigin": "Named after the national colors of Monaco (red & white) — pink/red hue from grenadine over beer/lemonade mix. :contentReference[oaicite:13]{index=13}",
+    "history": "A French beer cocktail mixing pale beer, lemonade, and a dash of grenadine — popular as a light, fruity drink for hot weather. :contentReference[oaicite:14]{index=14}",
+    "funFacts": [
+      "Considered a sweeter, more playful alternative to straight beer or shandy. :contentReference[oaicite:15]{index=15}"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "monaco cocktail",
+        "beer lemonade grenadine",
+        "summer beer cocktail"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use cold beer and chilled lemonade to maximize fizz and refreshment",
+      "Pour slowly to minimize foam",
+      "Adjust grenadine to control sweetness and color intensity"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": true,
+      "notes": "Sweet and low‑alcohol; suitable for light sipping"
+    }
+  },
+  {
+    "id": "porchcrawler_001",
+    "name": "Porchcrawler",
+    "alternateNames": [
+      "Porch Climber"
+    ],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Punch",
+      "Party",
+      "Strong"
+    ],
+    "imageUrl": "images/porchcrawler.jpg",
+    "thumbnailUrl": "thumbs/porchcrawler.png",
+    "drinkColor": "Pale straw to yellow (depending on mix)",
+    "mood": [
+      "Party",
+      "Casual",
+      "Summer",
+      "Festive"
+    ],
+    "warnings": [
+      "High alcohol content — drink responsibly"
+    ],
+    "ingredients": [
+      {
+        "name": "Light beer (lager or pilsner)",
+        "quantity": 1200,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Vodka or gin",
+        "quantity": 750,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Pink lemonade concentrate (thawed)",
+        "quantity": 354,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Cold water",
+        "quantity": 500,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lemon slices",
+        "type": "citrus",
+        "use": "Add to punch"
+      },
+      {
+        "name": "Fresh berries",
+        "type": "fruit",
+        "use": "Add to punch"
+      }
+    ],
+    "instructions": [
+      "In a large cooler or pitcher, combine the lemonade concentrate and vodka (or gin).",
+      "Add cold water and stir to dilute.",
+      "Slowly pour in the chilled beer to avoid excessive foam.",
+      "Add ice to the container and garnish with lemon slices or berries before serving."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 5,
+    "servings": 8,
+    "glassType": "Pitcher / Cooler party punch glass",
+    "iceType": "Cube / Bucket",
+    "garnish": "Lemon slices or berries",
+    "tasteProfile": {
+      "sweetness": 7,
+      "bitterness": 2,
+      "sourness": 3,
+      "strength": 8,
+      "refreshing": 6,
+      "flavorNotes": [
+        "Citrus lemonade",
+        "Light beer",
+        "Neutral spirit warmth"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Citrus lemonade",
+        "Light beer"
+      ],
+      "secondary": [
+        "Vodka/generic spirit neutral aroma"
+      ],
+      "intensity": 5
+    },
+    "alcoholPercentage": 6,
+    "totalAlcoholML": 750,
+    "baseSpirits": [
+      "Vodka or Gin"
+    ],
+    "nutrition": {
+      "calories": 700,
+      "carbs": 50,
+      "sugar": 40
+    },
+    "equipmentNeeded": [
+      "Large cooler or pitcher",
+      "Stirrer",
+      "Glasses"
+    ],
+    "bestOccasions": [
+      "College parties",
+      "Tailgates",
+      "Summer gatherings",
+      "BBQ"
+    ],
+    "season": "Summer",
+    "vibe": "Casual, fun, and dangerously easy‑drinking party punch",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 3.9,
+    "ratingCount": 450,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Unknown / college‑origin",
+    "createdYear": 2000,
+    "nameOrigin": "Implied reference to porch parties and crawling back home afterwards",
+    "history": "Porchcrawler became popular among North American college students as a punch‑style beer + liquor + lemonade drink served in large batches from coolers. :contentReference[oaicite:16]{index=16}",
+    "funFacts": [
+      "Also known as 'porchclimb'; often served out of a cooler at large gatherings. :contentReference[oaicite:17]{index=17}",
+      "Because of its high alcohol volume and sweet taste, it's deceptively strong. :contentReference[oaicite:18]{index=18}"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "porchcrawler",
+        "party punch",
+        "beer punch",
+        "college drink"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Add beer slowly after lemonade–spirit mix to avoid foam overflow",
+      "Keep mixture chilled before adding beer for best taste",
+      "Use light beer so lemonade flavour remains prominent"
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High in alcohol, sugar and calories — treat as party punch"
+    }
+  },
+  {
+    "id": "queen_mary_001",
+    "name": "Queen Mary",
+    "alternateNames": [],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Sweet",
+      "Fruity",
+      "Simple"
+    ],
+    "imageUrl": "images/queen_mary.jpg",
+    "thumbnailUrl": "thumbs/queen_mary.png",
+    "drinkColor": "Light amber with pinkish head",
+    "mood": [
+      "Playful",
+      "Casual",
+      "Sweet",
+      "Easy"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Pale lager or light beer",
+        "quantity": 300,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Grenadine syrup",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "syrup"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Maraschino cherry",
+        "type": "fruit",
+        "use": "Drop into glass / rim or top foam"
+      },
+      {
+        "name": "Maraschino cherry syrup (optional)",
+        "type": "syrup",
+        "use": "Drizzle on foam for extra sweetness"
+      }
+    ],
+    "instructions": [
+      "Pour grenadine into a chilled beer glass.",
+      "Slowly top up with cold beer, leaving some head space to let the foam form pink/red.",
+      "Garnish with maraschino cherry (or cherries) and optionally drizzle a little cherry syrup on the foam."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Beer glass / pint glass",
+    "iceType": "None",
+    "garnish": "Maraschino cherry",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 2,
+      "sourness": 1,
+      "strength": 3,
+      "refreshing": 5,
+      "flavorNotes": [
+        "Sweet grenadine",
+        "Light beer malt",
+        "Cherry"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Sweet cherry syrup",
+        "Light beer malt"
+      ],
+      "secondary": [],
+      "intensity": 4
+    },
+    "alcoholPercentage": 3,
+    "totalAlcoholML": 9,
+    "baseSpirits": [],
+    "nutrition": {
+      "calories": 130,
+      "carbs": 14,
+      "sugar": 12
+    },
+    "equipmentNeeded": [
+      "Beer glass"
+    ],
+    "bestOccasions": [
+      "Casual drink",
+      "Summer evening",
+      "Light cocktail hour"
+    ],
+    "season": "All",
+    "vibe": "Sweet, fun, and easygoing beer mix",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 3.7,
+    "ratingCount": 150,
+    "isFavorite": false,
+    "originCountry": "UK/Europe (popular in bars)",
+    "creatorName": "Unknown",
+    "createdYear": 2000,
+    "nameOrigin": "Likely named to evoke regal‑style sweet beer cocktail",
+    "history": "A simple blend of grenadine syrup and beer, often garnished with maraschino cherries — popular as an easy sweet beer‑cocktail. :contentReference[oaicite:19]{index=19}",
+    "funFacts": [
+      "Works as a sweeter alternative to plain beer — sometimes called a 'gateway' beer cocktail. :contentReference[oaicite:20]{index=20}"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "queen mary cocktail",
+        "beer grenadine",
+        "sweet beer drink"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Chill beer before mixing for refreshing taste",
+      "Pour beer slowly to maintain foam and avoid overspill",
+      "Use light beer to let grenadine sweetness shine"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": true,
+      "notes": "Low alcohol, but higher sugar than plain beer"
+    }
+  },
+  {
+    "id": "snakebite_001",
+    "name": "Snakebite",
+    "alternateNames": [],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Cider",
+      "UK pub",
+      "Simple"
+    ],
+    "imageUrl": "images/snakebite.jpg",
+    "thumbnailUrl": "thumbs/snakebite.png",
+    "drinkColor": "Golden‑amber",
+    "mood": [
+      "Casual",
+      "Pub‑style",
+      "Crisp",
+      "Easygoing"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Lager beer",
+        "quantity": 200,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Hard apple cider",
+        "quantity": 200,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Pour equal parts chilled lager and chilled hard apple cider into a pint glass.",
+      "Serve immediately without ice."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 1,
+    "servings": 1,
+    "glassType": "Pint glass",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 5,
+      "bitterness": 3,
+      "sourness": 2,
+      "strength": 5,
+      "refreshing": 6,
+      "flavorNotes": [
+        "Apple cider sweetness",
+        "Light beer malt",
+        "Crisp fermentation finish"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Apple cider",
+        "Beer malt"
+      ],
+      "secondary": [],
+      "intensity": 5
+    },
+    "alcoholPercentage": 5.5,
+    "totalAlcoholML": 18,
+    "baseSpirits": [],
+    "nutrition": {
+      "calories": 160,
+      "carbs": 15,
+      "sugar": 10
+    },
+    "equipmentNeeded": [
+      "Pint glass"
+    ],
+    "bestOccasions": [
+      "Casual pub night",
+      "Summer evening",
+      "Light drinking"
+    ],
+    "season": "All",
+    "vibe": "Crisp, easygoing, and slightly sweet pub‑style drink",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 3.9,
+    "ratingCount": 600,
+    "isFavorite": false,
+    "originCountry": "United Kingdom",
+    "creatorName": "Unknown",
+    "createdYear": 1980,
+    "nameOrigin": "Likely a colourful name referencing the bite of the cider‑beer mix",
+    "history": "Snakebite became popular in UK pubs in the 1980s as a straightforward mixture of equal parts lager and hard cider. :contentReference[oaicite:21]{index=21}",
+    "funFacts": [
+      "Sometimes served with a dash of blackcurrant cordial — called 'Snakebite and Black' or 'Diesel'. :contentReference[oaicite:22]{index=22}"
+    ],
+    "variations": [
+      {
+        "name": "Snakebite and Black",
+        "difference": "Add a splash of blackcurrant cordial for a sweeter, fruitier profile"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "snakebite drink",
+        "beer cider cocktail",
+        "uk pub drink"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use chilled beer and cider for best taste",
+      "Pour both slowly to reduce foam",
+      "Try with different ciders to vary sweetness and dryness"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Moderate alcohol and sugar — lighter than heavy cocktails but heavier than plain beer"
+    }
+  },
+  {
+    "id": "sake_bomb_001",
+    "name": "Sake Bomb",
+    "alternateNames": [],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Bomb shot",
+      "Japanese",
+      "Party"
+    ],
+    "imageUrl": "images/sake_bomb.jpg",
+    "thumbnailUrl": "thumbs/sake_bomb.png",
+    "drinkColor": "Light amber beer with clear sake",
+    "mood": [
+      "Party",
+      "Fun",
+      "High-energy",
+      "Social"
+    ],
+    "warnings": [
+      "Drink immediately after dropping the sake into beer",
+      "Strong alcohol content"
+    ],
+    "ingredients": [
+      {
+        "name": "Japanese lager beer",
+        "quantity": 200,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Sake (Japanese rice wine)",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Pour chilled beer into a pint glass until half full.",
+      "Pour sake into a shot glass.",
+      "Place the shot glass on chopsticks over the beer glass and push it in to drop the shot into the beer.",
+      "Drink immediately."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Pint glass + shot glass",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 2,
+      "bitterness": 3,
+      "sourness": 1,
+      "strength": 6,
+      "refreshing": 5,
+      "flavorNotes": [
+        "Crisp lager",
+        "Mild sake sweetness",
+        "Smooth rice wine"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Beer malt",
+        "Sake rice aroma"
+      ],
+      "secondary": [],
+      "intensity": 5
+    },
+    "alcoholPercentage": 6,
+    "totalAlcoholML": 60,
+    "baseSpirits": [
+      "Sake"
+    ],
+    "nutrition": {
+      "calories": 150,
+      "carbs": 5,
+      "sugar": 2
+    },
+    "equipmentNeeded": [
+      "Pint glass",
+      "Shot glass",
+      "Chopsticks (optional)"
+    ],
+    "bestOccasions": [
+      "Parties",
+      "Bars",
+      "Celebrations",
+      "Social drinking"
+    ],
+    "season": "All",
+    "vibe": "Fun, party-style, energetic",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 3.7,
+    "ratingCount": 500,
+    "isFavorite": false,
+    "originCountry": "Japan / USA",
+    "creatorName": "Unknown / Japanese-American bars",
+    "createdYear": 1980,
+    "nameOrigin": "Refers to dropping a shot of sake into beer, 'bomb' style",
+    "history": "Popularized in Japanese-American bars in the 1980s, combining sake and beer in a bomb-style cocktail. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Sake_bomb?utm_source=chatgpt.com))",
+    "funFacts": [
+      "Often used in social drinking games.",
+      "The chopsticks technique originated in Japanese-American bar culture."
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "sake bomb",
+        "beer cocktail",
+        "bomb shot",
+        "Japanese party drink"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Drink immediately after dropping the shot to avoid flat beer.",
+      "Use cold beer and sake for best taste."
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": true,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Moderate calories, high alcohol — fast consumption increases intoxication risk."
+    }
+  },
+  {
+    "id": "shandy_001",
+    "name": "Shandy",
+    "alternateNames": [],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Light",
+      "Refreshing",
+      "Summer"
+    ],
+    "imageUrl": "images/shandy.jpg",
+    "thumbnailUrl": "thumbs/shandy.png",
+    "drinkColor": "Pale yellow",
+    "mood": [
+      "Refreshing",
+      "Summer",
+      "Light",
+      "Casual"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Pale lager or light beer",
+        "quantity": 200,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Lemonade (carbonated or still)",
+        "quantity": 200,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lemon slice",
+        "type": "citrus",
+        "use": "Rim or float in glass"
+      }
+    ],
+    "instructions": [
+      "Fill a tall glass halfway with chilled beer.",
+      "Top up with lemonade to taste.",
+      "Garnish with a lemon slice and serve immediately."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Pint glass / Highball",
+    "iceType": "Optional",
+    "garnish": "Lemon slice",
+    "tasteProfile": {
+      "sweetness": 5,
+      "bitterness": 2,
+      "sourness": 3,
+      "strength": 3,
+      "refreshing": 8,
+      "flavorNotes": [
+        "Light beer malt",
+        "Citrus lemonade"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Lemonade citrus",
+        "Light beer malt"
+      ],
+      "secondary": [],
+      "intensity": 3
+    },
+    "alcoholPercentage": 2.5,
+    "totalAlcoholML": 10,
+    "baseSpirits": [],
+    "nutrition": {
+      "calories": 100,
+      "carbs": 10,
+      "sugar": 8
+    },
+    "equipmentNeeded": [
+      "Glass",
+      "Spoon (optional)"
+    ],
+    "bestOccasions": [
+      "Hot weather",
+      "Casual gatherings",
+      "Barbecue"
+    ],
+    "season": "Summer",
+    "vibe": "Light, casual, refreshing",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.1,
+    "ratingCount": 650,
+    "isFavorite": false,
+    "originCountry": "United Kingdom",
+    "creatorName": "Traditional / folk origin",
+    "createdYear": 1800,
+    "nameOrigin": "From Old English 'shandygaff', meaning beer mixed with ginger beer or lemonade",
+    "history": "Shandy has long been a summer drink in the UK and Europe, mixing beer and lemonade or ginger beer for a light, refreshing beverage. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shandy?utm_source=chatgpt.com))",
+    "funFacts": [
+      "Shandy is especially popular in Europe as a low-alcohol refreshment.",
+      "Modern versions include fruit-flavored sodas."
+    ],
+    "variations": [
+      {
+        "name": "Ginger Shandy",
+        "difference": "Use ginger beer instead of lemonade for a spicier flavor"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "shandy",
+        "beer lemonade",
+        "summer beer cocktail",
+        "light beer mix"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use cold ingredients for best refreshment.",
+      "Adjust lemonade proportion for desired sweetness."
+    ],
+    "healthProfile": {
+      "healthyStar": 4,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": true,
+      "notes": "Low-alcohol, light calories, refreshing summer drink."
+    }
+  },
+  {
+    "id": "spaghett_001",
+    "name": "Spaghett",
+    "alternateNames": [],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Party",
+      "Mixed"
+    ],
+    "imageUrl": "images/spaghett.jpg",
+    "thumbnailUrl": "thumbs/spaghett.png",
+    "drinkColor": "Golden",
+    "mood": [
+      "Fun",
+      "Party",
+      "Social"
+    ],
+    "warnings": [
+      "High alcohol content; drink responsibly"
+    ],
+    "ingredients": [
+      {
+        "name": "Beer (lager or pilsner)",
+        "quantity": 200,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Vodka",
+        "quantity": 40,
+        "unit": "ml",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Pour vodka into a shot glass.",
+      "Pour beer into a pint glass.",
+      "Drop the vodka shot into the beer and drink immediately."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Pint glass + shot glass",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 2,
+      "bitterness": 3,
+      "sourness": 0,
+      "strength": 7,
+      "refreshing": 4,
+      "flavorNotes": [
+        "Light beer malt",
+        "Vodka warmth"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Beer malt",
+        "Neutral vodka aroma"
+      ],
+      "secondary": [],
+      "intensity": 4
+    },
+    "alcoholPercentage": 7,
+    "totalAlcoholML": 40,
+    "baseSpirits": [
+      "Vodka"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "carbs": 5,
+      "sugar": 0
+    },
+    "equipmentNeeded": [
+      "Pint glass",
+      "Shot glass"
+    ],
+    "bestOccasions": [
+      "Parties",
+      "Bars",
+      "Social drinking"
+    ],
+    "season": "All",
+    "vibe": "Strong, fast-drinking, energetic",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 3.5,
+    "ratingCount": 200,
+    "isFavorite": false,
+    "originCountry": "Unknown",
+    "creatorName": "Unknown",
+    "createdYear": 1990,
+    "nameOrigin": "Possibly named after the Italian spaghetti-style long drink mixing method",
+    "history": "Simple beer + vodka bomb shot cocktail popular in party settings.",
+    "funFacts": [
+      "Similar to other 'bomb' style cocktails like Sake Bomb or Irish Car Bomb."
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "spaghett",
+        "beer vodka",
+        "bomb shot",
+        "party drink"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Drink immediately after dropping the shot.",
+      "Use cold beer for smooth taste."
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": true,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High alcohol, moderate calories; intended for rapid consumption."
+    }
+  },
+  {
+    "id": "u_boot_001",
+    "name": "U-Boot",
+    "alternateNames": [
+      "Submarine"
+    ],
+    "category": "Beer",
+    "type": "Alcoholic",
+    "tags": [
+      "Beer cocktail",
+      "Bomb shot",
+      "Vodka",
+      "German"
+    ],
+    "imageUrl": "images/u_boot.jpg",
+    "thumbnailUrl": "thumbs/u_boot.png",
+    "drinkColor": "Golden beer with clear vodka",
+    "mood": [
+      "Party",
+      "Energetic",
+      "Strong",
+      "Social"
+    ],
+    "warnings": [
+      "High alcohol content",
+      "Drink responsibly"
+    ],
+    "ingredients": [
+      {
+        "name": "Lager beer",
+        "quantity": 200,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Vodka",
+        "quantity": 40,
+        "unit": "ml",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Pour chilled beer into a pint glass.",
+      "Pour vodka into a shot glass.",
+      "Drop the shot glass into the beer and drink immediately."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Pint glass + shot glass",
+    "iceType": "None",
+    "garnish": "",
+    "tasteProfile": {
+      "sweetness": 1,
+      "bitterness": 3,
+      "sourness": 0,
+      "strength": 7,
+      "refreshing": 4,
+      "flavorNotes": [
+        "Beer malt",
+        "Vodka heat"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Beer malt",
+        "Vodka aroma"
+      ],
+      "secondary": [],
+      "intensity": 4
+    },
+    "alcoholPercentage": 7,
+    "totalAlcoholML": 40,
+    "baseSpirits": [
+      "Vodka"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "carbs": 5,
+      "sugar": 0
+    },
+    "equipmentNeeded": [
+      "Pint glass",
+      "Shot glass"
+    ],
+    "bestOccasions": [
+      "German beer halls",
+      "Parties",
+      "Bars"
+    ],
+    "season": "All",
+    "vibe": "Strong, fun, energetic party drink",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 3.6,
+    "ratingCount": 300,
+    "isFavorite": false,
+    "originCountry": "Germany",
+    "creatorName": "Unknown",
+    "createdYear": 1980,
+    "nameOrigin": "U-Boot (submarine in German) due to the shot sinking in beer like a submarine",
+    "history": "A traditional German bomb-style cocktail combining vodka and lager. ([en.wikipedia.org](https://en.wikipedia.org/wiki/U-Boot_(cocktail)?utm_source=chatgpt.com))",
+    "funFacts": [
+      "Called 'Submarine' in some bars outside Germany.",
+      "Often used as a social drinking game drink."
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "u-boot",
+        "submarine",
+        "beer vodka",
+        "bomb shot",
+        "german beer cocktail"
+      ],
+      "updatedAt": "2025-12-01T00:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Drink immediately after dropping the shot.",
+      "Chill both beer and vodka for best taste."
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": true,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High alcohol; drink responsibly."
+    }
+  },
+  {
+    "id": "angel_face_001",
+    "name": "Angel Face",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Spirit-forward",
+      "Vintage"
+    ],
+    "imageUrl": "images/angel_face.jpg",
+    "thumbnailUrl": "thumbs/angel_face.png",
+    "drinkColor": "Golden amber",
+    "mood": [
+      "Sophisticated",
+      "Elegant",
+      "Retro"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Calvados or Apple Brandy",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Apricot Brandy Liqueur",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Gin",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Pour all ingredients into a cocktail shaker filled with ice cubes.",
+      "Shake well until well chilled.",
+      "Strain into a chilled cocktail glass."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Cocktail glass",
+    "iceType": "Cubes (for shaking)",
+    "garnish": "None",
+    "tasteProfile": {
+      "sweetness": 7,
+      "bitterness": 2,
+      "sourness": 1,
+      "strength": 8,
+      "refreshing": 4,
+      "flavorNotes": [
+        "Apple",
+        "Apricot",
+        "Juniper",
+        "Orchard fruit"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Apple",
+        "Apricot"
+      ],
+      "secondary": [
+        "Gin botanicals",
+        "Brandy warmth"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 33,
+    "totalAlcoholML": 30,
+    "baseSpirits": [
+      "Calvados",
+      "Apricot Brandy",
+      "Gin"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "carbs": 12,
+      "sugar": 11
+    },
+    "equipmentNeeded": [
+      "Cocktail shaker",
+      "Strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Pre-dinner",
+      "Cocktail party",
+      "Vintage night"
+    ],
+    "season": "All",
+    "vibe": "Smooth, silky, and dangerously drinkable",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.2,
+    "ratingCount": 890,
+    "isFavorite": false,
+    "originCountry": "United Kingdom",
+    "creatorName": "Harry Craddock",
+    "createdYear": 1930,
+    "nameOrigin": "First published in Harry Craddock’s 1930 The Savoy Cocktail Book; the name is believed to refer to its smooth, deceptively strong character or possibly to gangster Abe 'Angel Face' Reles",
+    "history": "The Angel Face is an official IBA cocktail (The Unforgettables category) that debuted in Harry Craddock’s legendary 1930 The Savoy Cocktail Book. Equal parts of three spirits with no citrus or mixer, it is a perfect example of the early 20th-century style of simple, potent, fruit-brandy-based drinks.",
+    "funFacts": [
+      "Contains no non-alcoholic ingredients — pure spirits",
+      "Sometimes nicknamed 'the liquid lunch'",
+      "Despite its innocent name, it’s one of the strongest IBA classics"
+    ],
+    "variations": [
+      {
+        "name": "Modern Angel Face",
+        "difference": "Reduces apricot brandy to 15 ml and adds a dash of fresh lemon juice for balance"
+      },
+      {
+        "name": "Heavenly Face",
+        "difference": "Replaces gin with cognac for an all-brandy version"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "iba",
+        "savoy cocktail book",
+        "equal parts",
+        "calvados",
+        "apricot brandy"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a high-quality, dry London Dry gin to keep the drink balanced",
+      "Chill the glass thoroughly — this drink is best ice-cold",
+      "Use real apricot brandy liqueur (e.g., Marie Brizard Apry or Rothman & Winter), not apricot-flavored brandy"
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "100% alcohol with significant sugar from liqueurs; high strength"
+    }
+  },
+  {
+    "id": "between_the_sheets_001",
+    "name": "Between the Sheets",
+    "alternateNames": [
+      "Maiden's Prayer"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Citrusy",
+      "Potent"
+    ],
+    "imageUrl": "images/between_the_sheets.jpg",
+    "thumbnailUrl": "thumbs/between_the_sheets.png",
+    "drinkColor": "Pale yellow",
+    "mood": [
+      "Playful",
+      "Flirtatious",
+      "Energetic"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "White Rum",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Triple Sec",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "juice"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lemon Twist",
+        "type": "citrus",
+        "use": "Expressed over the drink"
+      }
+    ],
+    "instructions": [
+      "Add all ingredients into a cocktail shaker filled with ice cubes.",
+      "Shake well until well chilled.",
+      "Strain into a chilled cocktail glass."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Cocktail glass",
+    "iceType": "Cubes",
+    "garnish": "Lemon twist",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 1,
+      "sourness": 7,
+      "strength": 7,
+      "refreshing": 8,
+      "flavorNotes": [
+        "Citrus",
+        "Rum spice",
+        "Brandy warmth",
+        "Orange"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Lemon",
+        "Orange"
+      ],
+      "secondary": [
+        "Rum",
+        "Cognac"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 25,
+    "totalAlcoholML": 22.5,
+    "baseSpirits": [
+      "Cognac",
+      "White Rum"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "carbs": 15,
+      "sugar": 12
+    },
+    "equipmentNeeded": [
+      "Cocktail shaker",
+      "Strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Cocktail party",
+      "Date night",
+      "After dinner"
+    ],
+    "season": "All",
+    "vibe": "Bright, sassy, and seductive",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.3,
+    "ratingCount": 1200,
+    "isFavorite": false,
+    "originCountry": "France",
+    "creatorName": "Harry MacElhone",
+    "createdYear": 1920,
+    "nameOrigin": "Named for its provocative, potent nature, evoking a steamy encounter",
+    "history": "Created in the 1920s at Harry's New York Bar in Paris by Harry MacElhone, this rum-spiked variation on the Sidecar became an IBA official cocktail, embodying the Roaring Twenties' spirit of indulgence.",
+    "funFacts": [
+      "A cheeky twist on the Sidecar, replacing cognac partially with rum",
+      "Popular during Prohibition as an easy-to-smuggle drink"
+    ],
+    "variations": [
+      {
+        "name": "Vintage Between the Sheets",
+        "difference": "Uses equal parts cognac and Jamaican rum for a bolder flavor"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "sidecar variation",
+        "rum cognac",
+        "iba classic"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use Cointreau for a more refined orange note over generic triple sec",
+      "Shake vigorously to achieve a frothy texture",
+      "Garnish with a flame-kissed lemon twist for drama"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Balanced but potent; enjoy sparingly"
+    }
+  },
+  {
+    "id": "blow_my_skull_002",
+    "name": "Blow My Skull",
+    "alternateNames": [
+      "Blow My Skull Off"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Punch",
+      "Historical",
+      "Flaming",
+      "Potent"
+    ],
+    "imageUrl": "images/blow_my_skull.jpg",
+    "thumbnailUrl": "thumbs/blow_my_skull.png",
+    "drinkColor": "Dark brown",
+    "mood": [
+      "Adventurous",
+      "Rowdy",
+      "Festive"
+    ],
+    "warnings": [
+      "Extremely strong; consume in small amounts"
+    ],
+    "ingredients": [
+      {
+        "name": "Jamaican Rum",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Brandy",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Porter Beer",
+        "quantity": 120,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lime Juice",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Demerara Sugar",
+        "quantity": 15,
+        "unit": "g",
+        "type": "sweetener"
+      },
+      {
+        "name": "Boiling Water",
+        "quantity": 120,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lime Wheel",
+        "type": "citrus",
+        "use": "Float on top"
+      }
+    ],
+    "instructions": [
+      "Stir sugar and boiling water in a large bowl to dissolve.",
+      "Add lime juice and stir.",
+      "Add porter, rum, and brandy; stir well.",
+      "Refrigerate until chilled.",
+      "Serve over ice in small cups; optionally flame for presentation."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 10,
+    "servings": 4,
+    "glassType": "Punch cup",
+    "iceType": "Cubes",
+    "garnish": "Lime wheel",
+    "tasteProfile": {
+      "sweetness": 5,
+      "bitterness": 4,
+      "sourness": 4,
+      "strength": 9,
+      "refreshing": 5,
+      "flavorNotes": [
+        "Molasses",
+        "Malt",
+        "Citrus",
+        "Spice"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Rum",
+        "Lime"
+      ],
+      "secondary": [
+        "Porter malt",
+        "Brandy"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 15,
+    "totalAlcoholML": 13.5,
+    "baseSpirits": [
+      "Jamaican Rum",
+      "Brandy"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "carbs": 20,
+      "sugar": 15
+    },
+    "equipmentNeeded": [
+      "Large bowl",
+      "Stirring spoon",
+      "Pitcher"
+    ],
+    "bestOccasions": [
+      "Party",
+      "Historical reenactment",
+      "Winter gathering"
+    ],
+    "season": "Winter",
+    "vibe": "Wild colonial revelry",
+    "skillLevelNeeded": "Intermediate",
+    "ratingAvg": 4.0,
+    "ratingCount": 300,
+    "isFavorite": false,
+    "originCountry": "Australia",
+    "creatorName": "Thomas Davey",
+    "createdYear": 1806,
+    "nameOrigin": "Named for its skull-blowing potency, invented by a notorious drinker",
+    "history": "Invented by Tasmania's Lieutenant Governor Thomas Davey in the early 1800s, this punch from 'The English and Australian Cookery Book' (1864) evolved from Oceanic rum punches, gaining fame for its explosive strength among gold miners.",
+    "funFacts": [
+      "Originally may have included opium in a 'Blow My Skull Off' variant",
+      "Revived in modern tiki culture as a flaming skull bowl punch"
+    ],
+    "variations": [
+      {
+        "name": "Almost Blow My Skull Off",
+        "difference": "Uses cognac, peach schnapps, and Jägermeister for a modern twist"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "australian punch",
+        "colonial cocktail",
+        "rum brandy"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a dark, robust porter for authentic maltiness",
+      "Adjust sugar to balance the lime's tartness",
+      "Serve small portions—it's deceptively strong"
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High alcohol and calories; historical curiosity, not daily drink"
+    }
+  },
+  {
+    "id": "brandy_alexander_003",
+    "name": "Brandy Alexander",
+    "alternateNames": [
+      "Alexander No. 2"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Dessert",
+      "Creamy",
+      "Classic",
+      "IBA"
+    ],
+    "imageUrl": "images/brandy_alexander.jpg",
+    "thumbnailUrl": "thumbs/brandy_alexander.png",
+    "drinkColor": "Creamy beige",
+    "mood": [
+      "Indulgent",
+      "Cozy",
+      "Romantic"
+    ],
+    "warnings": [
+      "Dairy content; lactose intolerant beware"
+    ],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Crème de Cacao (dark)",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "other"
+      },
+      {
+        "name": "Fresh Cream",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "cream"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Nutmeg",
+        "type": "spice",
+        "use": "Grated over top"
+      }
+    ],
+    "instructions": [
+      "Add cognac, crème de cacao, and cream into a shaker with ice.",
+      "Shake until well-chilled.",
+      "Strain into a chilled cocktail glass.",
+      "Grate nutmeg over the top."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Cocktail glass",
+    "iceType": "Cubes",
+    "garnish": "Freshly grated nutmeg",
+    "tasteProfile": {
+      "sweetness": 8,
+      "bitterness": 0,
+      "sourness": 0,
+      "strength": 5,
+      "refreshing": 2,
+      "flavorNotes": [
+        "Chocolate",
+        "Vanilla",
+        "Brandy",
+        "Cream"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Chocolate",
+        "Cream"
+      ],
+      "secondary": [
+        "Brandy",
+        "Nutmeg"
+      ],
+      "intensity": 6
+    },
+    "alcoholPercentage": 18,
+    "totalAlcoholML": 10.8,
+    "baseSpirits": [
+      "Cognac"
+    ],
+    "nutrition": {
+      "calories": 250,
+      "carbs": 15,
+      "sugar": 12
+    },
+    "equipmentNeeded": [
+      "Cocktail shaker",
+      "Strainer",
+      "Jigger",
+      "Grater"
+    ],
+    "bestOccasions": [
+      "After dinner",
+      "Holiday party",
+      "Date night"
+    ],
+    "season": "Winter",
+    "vibe": "Velvety smooth indulgence",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.5,
+    "ratingCount": 2500,
+    "isFavorite": true,
+    "originCountry": "United States",
+    "creatorName": "Troy Alexander",
+    "createdYear": 1916,
+    "nameOrigin": "Brandy variation of the original gin Alexander, named after its creator",
+    "history": "Evolving from the 1916 gin-based Alexander at New York's Hotel Rector, the brandy version gained fame in the 1920s via Harry MacElhone, becoming a creamy IBA classic favored by celebrities like John Lennon.",
+    "funFacts": [
+      "John Lennon's favorite cocktail; featured in his song 'Come Together'",
+      "Once a staple at white-tie dinners for its elegant, milky appearance"
+    ],
+    "variations": [
+      {
+        "name": "Original Alexander",
+        "difference": "Substitutes gin for cognac"
+      },
+      {
+        "name": "Vodka Alexander",
+        "difference": "Uses vodka as the base for a lighter twist"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "creamy cocktail",
+        "dessert drink",
+        "cognac chocolate"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use heavy cream for richest texture; half-and-half for lighter version",
+      "Dark crème de cacao adds depth; white for a subtler chocolate note",
+      "Dust with nutmeg just before serving to preserve aroma"
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High in fat and sugar; best as an occasional treat"
+    }
+  },
+  {
+    "id": "brandy_crusta_004",
+    "name": "Brandy Crusta",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Pre-Prohibition",
+      "Citrus"
+    ],
+    "imageUrl": "images/brandy_crusta.jpg",
+    "thumbnailUrl": "thumbs/brandy_crusta.png",
+    "drinkColor": "Light amber",
+    "mood": [
+      "Sophisticated",
+      "Refined",
+      "Nostalgic"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Brandy",
+        "quantity": 52.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Maraschino Liqueur",
+        "quantity": 7.5,
+        "unit": "ml",
+        "type": "other"
+      },
+      {
+        "name": "Curaçao",
+        "quantity": 5,
+        "unit": "ml",
+        "type": "other"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 5,
+        "unit": "ml",
+        "type": "syrup"
+      },
+      {
+        "name": "Aromatic Bitters",
+        "quantity": 2,
+        "unit": "dash",
+        "type": "bitter"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lemon Twist",
+        "type": "citrus",
+        "use": "Coiled inside glass"
+      },
+      {
+        "name": "Sugar Crust",
+        "type": "other",
+        "use": "Rim the glass"
+      }
+    ],
+    "instructions": [
+      "Prepare the glass by coating the rim with lemon juice and dipping in sugar to create a crust.",
+      "Coil a lemon twist inside the glass.",
+      "Mix all ingredients with ice in a mixing glass.",
+      "Stir until well-chilled.",
+      "Strain into the prepared slim cocktail glass."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 5,
+    "servings": 1,
+    "glassType": "Slim cocktail glass",
+    "iceType": "Cubes",
+    "garnish": "Lemon twist and sugar crust",
+    "tasteProfile": {
+      "sweetness": 5,
+      "bitterness": 3,
+      "sourness": 6,
+      "strength": 7,
+      "refreshing": 7,
+      "flavorNotes": [
+        "Cherry",
+        "Orange",
+        "Lemon",
+        "Brandy spice"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Lemon",
+        "Maraschino"
+      ],
+      "secondary": [
+        "Brandy",
+        "Bitters"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 28,
+    "totalAlcoholML": 14.7,
+    "baseSpirits": [
+      "Brandy"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "carbs": 10,
+      "sugar": 8
+    },
+    "equipmentNeeded": [
+      "Mixing glass",
+      "Bar spoon",
+      "Strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Pre-dinner",
+      "Mardi Gras",
+      "Classic cocktail night"
+    ],
+    "season": "All",
+    "vibe": "Elegant antiquity",
+    "skillLevelNeeded": "Intermediate",
+    "ratingAvg": 4.4,
+    "ratingCount": 800,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Joseph Santini",
+    "createdYear": 1856,
+    "nameOrigin": "Named for the signature sugar 'crusta' rim, a New Orleans innovation",
+    "history": "Invented in 1850s New Orleans by Italian bartender Joseph Santini, this IBA classic was the fourth recipe in Jerry Thomas' 1862 'Bar-Tender's Guide,' predating and inspiring the Sidecar.",
+    "funFacts": [
+      "Direct ancestor of the Sidecar and many modern sours",
+      "Revived in the 2000s by historian David Wondrich's 'Imbibe!'"
+    ],
+    "variations": [
+      {
+        "name": "Whiskey Crusta",
+        "difference": "Substitutes rye whiskey for brandy"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "new orleans classic",
+        "maraschino",
+        "sugar rim"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a high-proof brandy for better balance against the citrus",
+      "The sugar crust is key—make it thick for tradition",
+      "Stir, don't shake, to preserve clarity"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Relatively low-cal for a classic; vitamin C from lemon"
+    }
+  },
+  {
+    "id": "brandy_old_fashioned_005",
+    "name": "Brandy Old Fashioned",
+    "alternateNames": [
+      "Wisconsin Old Fashioned"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Regional",
+      "Supper-club",
+      "Midwest",
+      "Classic"
+    ],
+    "imageUrl": "images/brandy_old_fashioned.jpg",
+    "thumbnailUrl": "thumbs/brandy_old_fashioned.png",
+    "drinkColor": "Amber to reddish (depending on sweet/sour)",
+    "mood": [
+      "Comforting",
+      "Nostalgic",
+      "Festive"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Brandy",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Sugar Cube",
+        "quantity": 1,
+        "unit": "piece",
+        "type": "sweetener"
+      },
+      {
+        "name": "Angostura Bitters",
+        "quantity": 3,
+        "unit": "dash",
+        "type": "bitter"
+      },
+      {
+        "name": "Water or Soda Water",
+        "quantity": 10,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Lemon-Lime Soda (7-Up or Sprite)",
+        "quantity": 90,
+        "unit": "ml",
+        "type": "soda"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Orange Slice",
+        "type": "citrus",
+        "use": "Muddled and dropped in"
+      },
+      {
+        "name": "Maraschino Cherry",
+        "type": "fruit",
+        "use": "Dropped in and as garnish"
+      }
+    ],
+    "instructions": [
+      "Place sugar cube in an old fashioned glass and dash with bitters.",
+      "Add orange slice and cherry, muddle lightly.",
+      "Add a splash of water or soda, then brandy.",
+      "Fill glass with ice cubes.",
+      "Top with lemon-lime soda.",
+      "Garnish with additional cherry and orange flag."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 4,
+    "servings": 1,
+    "glassType": "Old Fashioned glass",
+    "iceType": "Cubes",
+    "garnish": "Orange slice and maraschino cherries",
+    "tasteProfile": {
+      "sweetness": 8,
+      "bitterness": 2,
+      "sourness": 2,
+      "strength": 6,
+      "refreshing": 7,
+      "flavorNotes": [
+        "Caramel",
+        "Citrus",
+        "Cherry",
+        "Brandy fruitiness"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Orange",
+        "Cherry"
+      ],
+      "secondary": [
+        "Brandy",
+        "Bitters"
+      ],
+      "intensity": 6
+    },
+    "alcoholPercentage": 18,
+    "totalAlcoholML": 16,
+    "baseSpirits": [
+      "Brandy"
+    ],
+    "nutrition": {
+      "calories": 240,
+      "carbs": 28,
+      "sugar": 26
+    },
+    "equipmentNeeded": [
+      "Muddler",
+      "Bar spoon",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Friday fish fry",
+      "Supper club",
+      "Holiday gatherings"
+    ],
+    "season": "All",
+    "vibe": "Midwestern warmth and tradition",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.6,
+    "ratingCount": 2100,
+    "isFavorite": true,
+    "originCountry": "United States",
+    "creatorName": "Unknown",
+    "createdYear": 1890,
+    "nameOrigin": "Wisconsin’s twist on the classic Old Fashioned, replacing whiskey with brandy during Prohibition",
+    "history": "Born in Wisconsin during the late 19th and early 20th centuries when German immigrants preferred brandy over whiskey. Korbel brandy shipments to the state skyrocketed, and the sweet, soda-topped version became the unofficial state cocktail.",
+    "funFacts": [
+      "Wisconsin consumes more brandy per capita than any other U.S. state",
+      "Often ordered as 'sweet', 'sour', or 'press' (half soda, half seltzer)"
+    ],
+    "variations": [
+      {
+        "name": "Brandy Old Fashioned Sour",
+        "difference": "Topped with Squirt or grapefruit soda instead of lemon-lime"
+      },
+      {
+        "name": "Brandy Old Fashioned Press",
+        "difference": "Topped with a mix of soda water and Sprite"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "wisconsin",
+        "supper club",
+        "brandy sweet"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use Korbel or another American brandy for authenticity",
+      "Muddle gently—don’t shred the fruit",
+      "Serve with a short straw and a long spoon for stirring"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High sugar from soda; classic indulgence"
+    }
+  },
+  {
+    "id": "brandy_manhattan_006",
+    "name": "Brandy Manhattan",
+    "alternateNames": [
+      "Brandy Manhattan Perfect"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "Spirit-forward",
+      "Variation"
+    ],
+    "imageUrl": "images/brandy_manhattan.jpg",
+    "thumbnailUrl": "thumbs/brandy_manhattan.png",
+    "drinkColor": "Deep amber to reddish",
+    "mood": [
+      "Sophisticated",
+      "Intimate",
+      "Evening"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Brandy or Cognac",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Sweet Vermouth",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Angostura Bitters",
+        "quantity": 2,
+        "unit": "dash",
+        "type": "bitter"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Maraschino Cherry",
+        "type": "fruit",
+        "use": "Dropped in or on pick"
+      },
+      {
+        "name": "Lemon Twist",
+        "type": "citrus",
+        "use": "Expressed over drink"
+      }
+    ],
+    "instructions": [
+      "Add all ingredients into a mixing glass with ice cubes.",
+      "Stir well until chilled.",
+      "Strain into a chilled cocktail glass or over fresh ice in a rocks glass."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Cocktail glass or Rocks glass",
+    "iceType": "Cubes",
+    "garnish": "Maraschino cherry",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 4,
+      "sourness": 0,
+      "strength": 7,
+      "refreshing": 3,
+      "flavorNotes": [
+        "Grape",
+        "Vanilla",
+        "Dried fruit",
+        "Herbs"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Vermouth botanicals",
+        "Brandy fruit"
+      ],
+      "secondary": [
+        "Cherry",
+        "Spice"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 28,
+    "totalAlcoholML": 18,
+    "baseSpirits": [
+      "Brandy"
+    ],
+    "nutrition": {
+      "calories": 190,
+      "carbs": 8,
+      "sugar": 7
+    },
+    "equipmentNeeded": [
+      "Mixing glass",
+      "Bar spoon",
+      "Strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "After dinner",
+      "Lounge",
+      "Date night"
+    ],
+    "season": "All",
+    "vibe": "Smooth and contemplative",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.4,
+    "ratingCount": 1400,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Unknown",
+    "createdYear": 1920,
+    "nameOrigin": "A simple substitution of brandy for rye whiskey in the classic Manhattan",
+    "history": "Popularized in the mid-20th century as an elegant alternative to the whiskey Manhattan, especially in regions with strong brandy traditions. Often called the 'Metropolitan' when made with a 3:1 brandy-to-vermouth ratio.",
+    "funFacts": [
+      "Sometimes called the 'Harvard' or 'Metropolitan' in vintage bars",
+      "Frank Sinatra reportedly preferred a brandy Manhattan"
+    ],
+    "variations": [
+      {
+        "name": "Perfect Brandy Manhattan",
+        "difference": "Uses 15 ml sweet and 15 ml dry vermouth, lemon twist garnish"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "manhattan variation",
+        "brandy vermouth",
+        "stirred"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a good VSOP or XO cognac for richer flavor",
+      "Stir at least 30 seconds for proper dilution",
+      "Luxardo cherries elevate the drink significantly"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Lower sugar than many classics"
+    }
+  },
+  {
+    "id": "brandy_sour_007",
+    "name": "Brandy Sour",
+    "alternateNames": [
+      "Classic Brandy Sour"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Sour",
+      "Classic",
+      "Cyprus National Drink"
+    ],
+    "imageUrl": "images/brandy_sour.jpg",
+    "thumbnailUrl": "thumbs/brandy_sour.png",
+    "drinkColor": "Cloudy pale yellow",
+    "mood": [
+      "Refreshing",
+      "Easygoing",
+      "Sunny"
+    ],
+    "warnings": [
+      "Contains raw egg white (optional)"
+    ],
+    "ingredients": [
+      {
+        "name": "Brandy or Cognac",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "syrup"
+      },
+      {
+        "name": "Angostura Bitters",
+        "quantity": 2,
+        "unit": "dash",
+        "type": "bitter"
+      },
+      {
+        "name": "Egg White (optional)",
+        "quantity": 1,
+        "unit": "piece",
+        "type": "other"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lemon Wheel",
+        "type": "citrus",
+        "use": "On rim"
+      },
+      {
+        "name": "Maraschino Cherry",
+        "type": "fruit",
+        "use": "On pick"
+      }
+    ],
+    "instructions": [
+      "Dry shake egg white (if using) vigorously.",
+      "Add all remaining ingredients with ice and shake hard.",
+      "Double strain into a chilled rocks glass over fresh ice.",
+      "Garnish with lemon wheel and cherry."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 4,
+    "servings": 1,
+    "glassType": "Rocks glass",
+    "iceType": "Cubes",
+    "garnish": "Lemon wheel and cherry",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 2,
+      "sourness": 7,
+      "strength": 6,
+      "refreshing": 8,
+      "flavorNotes": [
+        "Lemon",
+        "Brandy fruit",
+        "Vanilla",
+        "Silky"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Lemon",
+        "Brandy"
+      ],
+      "secondary": [
+        "Bitters",
+        "Egg foam"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 22,
+    "totalAlcoholML": 16,
+    "baseSpirits": [
+      "Brandy"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "carbs": 16,
+      "sugar": 14
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Summer evening",
+      "Brunch",
+      "Poolside"
+    ],
+    "season": "Summer",
+    "vibe": "Smooth and citrusy island escape",
+    "skillLevelNeeded": "Intermediate",
+    "ratingAvg": 4.5,
+    "ratingCount": 1800,
+    "isFavorite": false,
+    "originCountry": "Cyprus",
+    "creatorName": "Unknown",
+    "createdYear": 1930,
+    "nameOrigin": "Created as a covert way to serve brandy to King Farouk of Egypt in Cyprus",
+    "history": "Invented in the 1930s at the Forest Park Hotel in Platres, Cyprus, to disguise brandy for Muslim King Farouk. Made with local lemon cordial and Angostura, it became the unofficial national drink of Cyprus.",
+    "funFacts": [
+      "Cyprus Brandy Sour is protected by Cypriot law",
+      "Often made with local lemon squash instead of fresh juice"
+    ],
+    "variations": [
+      {
+        "name": "Cyprus Brandy Sour",
+        "difference": "Uses lemon squash/cordial instead of fresh juice + syrup"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "cyprus",
+        "national drink",
+        "egg white sour"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Dry shake vigorously for best foam",
+      "Use a rich, fruity brandy for authentic Cypriot style",
+      "Dash bitters on top of foam for aroma"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Vitamin C from lemon; raw egg risk if used"
+    }
+  },
+  {
+    "id": "chicago_cocktail_008",
+    "name": "Chicago Cocktail",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Vintage",
+      "Pre-Prohibition",
+      "Sparkling"
+    ],
+    "imageUrl": "images/chicago_cocktail.jpg",
+    "thumbnailUrl": "thumbs/chicago_cocktail.png",
+    "drinkColor": "Pale pink to amber",
+    "mood": [
+      "Celebratory",
+      "Elegant",
+      "Roaring 20s"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Brandy or Cognac",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Triple Sec (Cointreau)",
+        "quantity": 7.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Angostura Bitters",
+        "quantity": 1,
+        "unit": "dash",
+        "type": "bitter"
+      },
+      {
+        "name": "Sparkling Wine",
+        "quantity": 90,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lemon Twist",
+        "type": "citrus",
+        "use": "Rim the glass"
+      }
+    ],
+    "instructions": [
+      "Rub lemon peel around rim of a wine glass.",
+      "Coat rim with fine sugar.",
+      "Add brandy, triple sec, and bitters to a mixing glass with ice.",
+      "Stir briefly.",
+      "Strain into prepared glass.",
+      "Top with chilled sparkling wine."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Wine glass or flute",
+    "iceType": "None (served up)",
+    "garnish": "Sugared rim",
+    "tasteProfile": {
+      "sweetness": 7,
+      "bitterness": 2,
+      "sourness": 3,
+      "strength": 5,
+      "refreshing": 9,
+      "flavorNotes": [
+        "Orange",
+        "Grape",
+        "Brandy",
+        "Bubbles"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Sparkling wine",
+        "Orange"
+      ],
+      "secondary": [
+        "Brandy",
+        "Bitters"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 18,
+    "totalAlcoholML": 20,
+    "baseSpirits": [
+      "Brandy"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "carbs": 14,
+      "sugar": 12
+    },
+    "equipmentNeeded": [
+      "Mixing glass",
+      "Bar spoon",
+      "Strainer"
+    ],
+    "bestOccasions": [
+      "New Year’s Eve",
+      "Anniversary",
+      "Brunch"
+    ],
+    "season": "All",
+    "vibe": "Bubbly Prohibition-era glamour",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.1,
+    "ratingCount": 650,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Unknown",
+    "createdYear": 1910,
+    "nameOrigin": "Named after the windy city during its pre-Prohibition cocktail heyday",
+    "history": "Appeared in early 20th-century cocktail books, a brandy-topped French 75 variant popular in Chicago speakeasies. The sugared rim and Champagne top make it a festive celebratory drink.",
+    "funFacts": [
+      "One of the few classic cocktails that tops with sparkling wine",
+      "Sometimes made with ruby port floated on top in vintage recipes"
+    ],
+    "variations": [
+      {
+        "name": "Chicago Cocktail (Port version)",
+        "difference": "Adds a float of ruby port and uses lemon peel garnish"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "champagne top",
+        "vintage",
+        "sugared rim"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a good VSOP cognac for depth",
+      "Chill the sparkling wine thoroughly",
+      "Don’t overstir—preserve the bubbles"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Moderate calories; celebratory treat"
+    }
+  },
+  {
+    "id": "curacao_punch_009",
+    "name": "Curaçao Punch",
+    "alternateNames": [
+      "Curaçao Punch (Savoy)",
+      "Blue Curaçao Punch"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Punch",
+      "Vintage",
+      "Tropical",
+      "Flaming (optional)"
+    ],
+    "imageUrl": "images/curacao_punch.jpg",
+    "thumbnailUrl": "thumbs/curacao_punch.png",
+    "drinkColor": "Deep orange-amber",
+    "mood": [
+      "Festive",
+      "Exotic",
+      "Celebratory"
+    ],
+    "warnings": [
+      "Contains flaming element in classic presentation"
+    ],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Orange Curaçao (or Triple Sec)",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Jamaican Rum (overproof for flaming)",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "quantity": 20,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "syrup"
+      },
+      {
+        "name": "Soda Water",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "soda"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Orange Slice",
+        "type": "citrus",
+        "use": "Wheel on rim"
+      },
+      {
+        "name": "Pineapple Leaf",
+        "type": "other",
+        "use": "For tropical look"
+      }
+    ],
+    "instructions": [
+      "Shake cognac, curaçao, lemon juice, and simple syrup with ice.",
+      "Strain into a large goblet or tiki mug filled with crushed ice.",
+      "Top with soda water.",
+      "Float overproof rum on top.",
+      "Carefully ignite the rum float for dramatic flaming presentation (optional).",
+      "Garnish lavishly."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 5,
+    "servings": 1,
+    "glassType": "Goblet or tiki mug",
+    "iceType": "Crushed",
+    "garnish": "Orange slice and flaming rum float",
+    "tasteProfile": {
+      "sweetness": 7,
+      "bitterness": 1,
+      "sourness": 5,
+      "strength": 7,
+      "refreshing": 8,
+      "flavorNotes": [
+        "Orange",
+        "Caramel",
+        "Lemon",
+        "Rum funk"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Orange peel",
+        "Burnt rum"
+      ],
+      "secondary": [
+        "Cognac",
+        "Citrus"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 22,
+    "totalAlcoholML": 20,
+    "baseSpirits": [
+      "Cognac",
+      "Jamaican Rum"
+    ],
+    "nutrition": {
+      "calories": 245,
+      "carbs": 22,
+      "sugar": 20
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Long lighter (for flame)"
+    ],
+    "bestOccasions": [
+      "Luau",
+      "Tiki party",
+      "Summer celebration"
+    ],
+    "season": "Summer",
+    "vibe": "Flamboyant tropical spectacle",
+    "skillLevelNeeded": "Intermediate",
+    "ratingAvg": 4.3,
+    "ratingCount": 720,
+    "isFavorite": false,
+    "originCountry": "United Kingdom",
+    "creatorName": "Harry Craddock",
+    "createdYear": 1930,
+    "nameOrigin": "Named after the orange curaçao liqueur central to its flavor, featured in The Savoy Cocktail Book",
+    "history": "Published in Harry Craddock’s 1930 Savoy Cocktail Book, this dramatic flaming punch bridged European cognac tradition with emerging tiki culture. The flaming overproof rum float made it a showstopper in pre-WWII London bars.",
+    "funFacts": [
+      "One of the earliest flaming cocktails in modern mixology",
+      "Often served in a scorpion bowl for groups"
+    ],
+    "variations": [
+      {
+        "name": "Non-flaming Curaçao Punch",
+        "difference": "Omit the rum float and flame"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "savoy",
+        "flaming",
+        "curaçao",
+        "tiki"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use Pierre Ferrand Dry Curaçao for authentic orange flavor",
+      "Warm the overproof rum slightly before floating to ignite easily",
+      "Extinguish flame before drinking"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High sugar and fire hazard; spectacle over daily drink"
+    }
+  },
+  {
+    "id": "diki_diki_010",
+    "name": "Diki-Diki",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Vintage",
+      "Rare",
+      "Apple",
+      "Scandinavian"
+    ],
+    "imageUrl": "images/diki_diki.jpg",
+    "thumbnailUrl": "thumbs/diki_diki.png",
+    "drinkColor": "Pale golden",
+    "mood": [
+      "Quirky",
+      "Adventurous",
+      "Wintery"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Calvados (Apple Brandy)",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Swedish Punsch",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Grapefruit Juice",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 5,
+        "unit": "ml",
+        "type": "syrup"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Apple Fan",
+        "type": "fruit",
+        "use": "On rim"
+      }
+    ],
+    "instructions": [
+      "Add all ingredients into a shaker with ice.",
+      "Shake well until chilled.",
+      "Strain into a chilled cocktail glass."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Cocktail glass",
+    "iceType": "Cubes",
+    "garnish": "Apple slice",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 4,
+      "sourness": 5,
+      "strength": 7,
+      "refreshing": 6,
+      "flavorNotes": [
+        "Green apple",
+        "Grapefruit",
+        "Spiced rum",
+        "Tea"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Apple",
+        "Grapefruit"
+      ],
+      "secondary": [
+        "Arrack spice",
+        "Tea"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 28,
+    "totalAlcoholML": 18,
+    "baseSpirits": [
+      "Calvados",
+      "Swedish Punsch"
+    ],
+    "nutrition": {
+      "calories": 185,
+      "carbs": 12,
+      "sugar": 10
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Cold evening",
+      "Vintage cocktail night"
+    ],
+    "season": "Fall",
+    "vibe": "Obscure Nordic elegance",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.4,
+    "ratingCount": 420,
+    "isFavorite": false,
+    "originCountry": "United Kingdom",
+    "creatorName": "Oscar of the Waldorf",
+    "createdYear": 1923,
+    "nameOrigin": "Named after a Filipino dictator’s nickname meaning “little boy”",
+    "history": "Created in 1923 by Oscar of the Waldorf-Astoria in London for a visiting Filipino dignitary nicknamed “Diki-Diki.” Combines Norman apple brandy with the exotic Swedish Punsch (arrack-based liqueur). A forgotten gem revived by modern cocktail historians.",
+    "funFacts": [
+      "One of the only classic cocktails featuring Swedish Punsch",
+      "Appears in Harry Craddock’s Savoy Cocktail Book"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "calvados",
+        "swedish punsch",
+        "forgotten classic"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use Kronan or Carlshamn Swedish Punsch for authenticity",
+      "A quality Calvados makes all the difference",
+      "Serve ice-cold to tame the grapefruit bitterness"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Moderate sugar, vitamin C from grapefruit"
+    }
+  },
+  {
+    "id": "four_score_011",
+    "name": "Four Score",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Modern-classic",
+      "Herbal",
+      "Bitter-sweet"
+    ],
+    "imageUrl": "images/four_score.jpg",
+    "thumbnailUrl": "thumbs/four_score.png",
+    "drinkColor": "Deep reddish-brown",
+    "mood": [
+      "Contemplative",
+      "Sophisticated",
+      "Autumnal"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 45,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Amaro Montenegro",
+        "quantity": 22.5,
+        "unit": "ml",
+        "type": "bitter"
+      },
+      {
+        "name": "Bénédictine",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Absinthe",
+        "quantity": 2,
+        "unit": "dash",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Orange Twist",
+        "type": "citrus",
+        "use": "Expressed and discarded"
+      }
+    ],
+    "instructions": [
+      "Stir all ingredients with ice until well chilled.",
+      "Strain into a chilled Nick & Nora or coupe glass.",
+      "Express orange oils over the drink."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Nick & Nora glass",
+    "iceType": "Cubes (for stirring)",
+    "garnish": "Expressed orange twist",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 6,
+      "sourness": 0,
+      "strength": 8,
+      "refreshing": 3,
+      "flavorNotes": [
+        "Herbs",
+        "Honey",
+        "Orange",
+        "Anise",
+        "Grape"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Orange",
+        "Herbs"
+      ],
+      "secondary": [
+        "Anise",
+        "Cognac oak"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 34,
+    "totalAlcoholML": 22,
+    "baseSpirits": [
+      "Cognac"
+    ],
+    "nutrition": {
+      "calories": 195,
+      "carbs": 12,
+      "sugar": 11
+    },
+    "equipmentNeeded": [
+      "Mixing glass",
+      "Bar spoon",
+      "Strainer"
+    ],
+    "bestOccasions": [
+      "After dinner",
+      "Quiet bar",
+      "Fall evening"
+    ],
+    "season": "Fall",
+    "vibe": "Meditative and complex",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.6,
+    "ratingCount": 580,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Toby Maloney",
+    "createdYear": 2008,
+    "nameOrigin": "Refers to Lincoln’s “four score and seven years ago,” evoking age and heritage",
+    "history": "Created in 2008 by Toby Maloney at The Violet Hour in Chicago. A modern classic that bridges old-world liqueurs with cognac, inspired by the Vieux Carré but drier and more herbal.",
+    "funFacts": [
+      "A staple on craft cocktail menus in the 2010s",
+      "Showcases the harmony of four distinct herbal elements"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "violet hour",
+        "modern classic",
+        "amaro",
+        "bénédictine"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Stir for at least 40 seconds for perfect dilution",
+      "Use VSOP or better cognac",
+      "Don’t skip the absinthe rinse—it ties everything together"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Herbal digestif qualities"
+    }
+  },
+  {
+    "id": "french_connection_012",
+    "name": "French Connection",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Digestif",
+      "Simple",
+      "After-dinner",
+      "1970s"
+    ],
+    "imageUrl": "images/french_connection.jpg",
+    "thumbnailUrl": "thumbs/french_connection.png",
+    "drinkColor": "Rich amber",
+    "mood": [
+      "Relaxed",
+      "Intimate",
+      "Retro"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 45,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Amaretto (Disaronno)",
+        "quantity": 45,
+        "unit": "ml",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Pour cognac and amaretto into a rocks glass over a large ice cube.",
+      "Stir gently a few times.",
+      "Serve without garnish."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 1,
+    "servings": 1,
+    "glassType": "Rocks glass",
+    "iceType": "Large cube",
+    "garnish": "None",
+    "tasteProfile": {
+      "sweetness": 8,
+      "bitterness": 1,
+      "sourness": 0,
+      "strength": 7,
+      "refreshing": 2,
+      "flavorNotes": [
+        "Almond",
+        "Apricot kernel",
+        "Vanilla",
+        "Grape"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Almond",
+        "Marzipan"
+      ],
+      "secondary": [
+        "Cognac oak",
+        "Vanilla"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 32,
+    "totalAlcoholML": 18,
+    "baseSpirits": [
+      "Cognac",
+      "Amaretto"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "carbs": 18,
+      "sugar": 18
+    },
+    "equipmentNeeded": [
+      "Jigger",
+      "Bar spoon"
+    ],
+    "bestOccasions": [
+      "After dinner",
+      "Nightcap",
+      "Lounge"
+    ],
+    "season": "Winter",
+    "vibe": "Smooth 1970s sophistication",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.2,
+    "ratingCount": 1600,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Unknown",
+    "createdYear": 1971,
+    "nameOrigin": "Named after the 1971 Gene Hackman film 'The French Connection'",
+    "history": "Popularized in the 1970s after the Academy Award-winning film, this simple equal-parts drink became a staple digestif in discos and lounges. Its smooth almond-grape profile made it an easy sipper.",
+    "funFacts": [
+      "One of the simplest classic cocktails—only two ingredients",
+      "Was the original 'Godfather' before Scotch replaced cognac"
+    ],
+    "variations": [
+      {
+        "name": "Godfather",
+        "difference": "Substitutes Scotch whisky for cognac"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "two ingredient",
+        "digestif",
+        "amaretto"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a large clear ice cube to slow dilution",
+      "Disaronno is traditional, but craft amari work well",
+      "Served on the rocks only—never up"
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "High sugar content; dessert in a glass"
+    }
+  },
+  {
+    "id": "hennchata_013",
+    "name": "Hennchata",
+    "alternateNames": [
+      "Henny-chata",
+      "Cognac Horchata"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Modern",
+      "Creamy",
+      "Dessert",
+      "Hip-hop"
+    ],
+    "imageUrl": "images/hennchata.jpg",
+    "thumbnailUrl": "thumbs/hennchata.png",
+    "drinkColor": "Milky beige with cinnamon dusting",
+    "mood": [
+      "Chilled",
+      "Celebratory",
+      "Indulgent"
+    ],
+    "warnings": [
+      "Contains dairy"
+    ],
+    "ingredients": [
+      {
+        "name": "Hennessy VS or VSOP Cognac",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "RumChata (or homemade horchata liqueur)",
+        "quantity": 90,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Ground Cinnamon",
+        "quantity": 1,
+        "unit": "pinch",
+        "type": "spice"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Cinnamon",
+        "type": "spice",
+        "use": "Dusted on top"
+      }
+    ],
+    "instructions": [
+      "Fill a rocks glass with ice.",
+      "Pour Hennessy and RumChata over the ice.",
+      "Stir gently 5–6 times.",
+      "Dust generously with ground cinnamon."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 1,
+    "servings": 1,
+    "glassType": "Rocks glass",
+    "iceType": "Cubes",
+    "garnish": "Cinnamon dust",
+    "tasteProfile": {
+      "sweetness": 9,
+      "bitterness": 0,
+      "sourness": 0,
+      "strength": 5,
+      "refreshing": 4,
+      "flavorNotes": [
+        "Cinnamon",
+        "Vanilla",
+        "Rice pudding",
+        "Caramel",
+        "Grape"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Cinnamon",
+        "Vanilla cream"
+      ],
+      "secondary": [
+        "Cognac",
+        "Rice"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 17,
+    "totalAlcoholML": 18,
+    "baseSpirits": [
+      "Cognac",
+      "RumChata"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "carbs": 32,
+      "sugar": 30
+    },
+    "equipmentNeeded": [
+      "Jigger",
+      "Bar spoon"
+    ],
+    "bestOccasions": [
+      "Club",
+      "House party",
+      "Hip-hop night",
+      "Dessert substitute"
+    ],
+    "season": "All",
+    "vibe": "Smooth, creamy, turn-up energy",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.7,
+    "ratingCount": 3200,
+    "isFavorite": true,
+    "originCountry": "United States",
+    "creatorName": "Unknown (viral internet drink)",
+    "createdYear": 2014,
+    "nameOrigin": "Portmanteau of Hennessy + horchata",
+    "history": "Exploded in popularity around 2014–2016 on Instagram and Vine, especially in African-American and Latino communities. The combination of Hennessy (already a cultural icon) with the sweet, cinnamon horchata liqueur RumChata created an instant modern classic that requires zero skill and tastes like liquid cinnamon toast crunch.",
+    "funFacts": [
+      "One of the fastest-spreading viral cocktails of the social-media era",
+      "Often referenced in rap lyrics and memes"
+    ],
+    "variations": [
+      {
+        "name": "Dirty Hennchata",
+        "difference": "Add a shot of cold brew coffee"
+      },
+      {
+        "name": "Vegan Hennchata",
+        "difference": "Use almond-milk based horchata liqueur"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "hennessy",
+        "rumchata",
+        "viral",
+        "hiphop"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use crushed ice for faster chill and slight dilution",
+      "Hennessy VS is the traditional choice—VSOP for a smoother experience",
+      "Dust cinnamon right before serving so it floats"
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Essentially alcoholic cinnamon milk—pure indulgence"
+    }
+  },
+  {
+    "id": "hoppel_poppel_014",
+    "name": "Hoppel Poppel",
+    "alternateNames": [
+      "Hoppel-Popple"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Forgotten",
+      "Vintage",
+      "Cognac",
+      "Egg"
+    ],
+    "imageUrl": "images/hoppel_poppel.jpg",
+    "thumbnailUrl": "thumbs/hoppel_poppel.png",
+    "drinkColor": "Creamy pale yellow",
+    "mood": [
+      "Curious",
+      "Adventurous",
+      "Brunch"
+    ],
+    "warnings": [
+      "Contains raw egg"
+    ],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 45,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Apricot Brandy Liqueur",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Whole Egg",
+        "quantity": 1,
+        "unit": "piece",
+        "type": "other"
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 10,
+        "unit": "ml",
+        "type": "syrup"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Nutmeg",
+        "type": "spice",
+        "use": "Grated on top"
+      }
+    ],
+    "instructions": [
+      "Dry shake the whole egg vigorously for 15 seconds.",
+      "Add remaining ingredients with ice and shake hard.",
+      "Double strain into a chilled fizz or sour glass.",
+      "Grate fresh nutmeg over the foam."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 4,
+    "servings": 1,
+    "glassType": "Fizz glass",
+    "iceType": "None (served up)",
+    "garnish": "Freshly grated nutmeg",
+    "tasteProfile": {
+      "sweetness": 7,
+      "bitterness": 0,
+      "sourness": 5,
+      "strength": 6,
+      "refreshing": 5,
+      "flavorNotes": [
+        "Apricot",
+        "Lemon custard",
+        "Vanilla",
+        "Rich egg"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Apricot",
+        "Nutmeg"
+      ],
+      "secondary": [
+        "Cognac",
+        "Lemon"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 22,
+    "totalAlcoholML": 12,
+    "baseSpirits": [
+      "Cognac",
+      "Apricot Brandy"
+    ],
+    "nutrition": {
+      "calories": 240,
+      "carbs": 14,
+      "sugar": 12
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Fine strainer"
+    ],
+    "bestOccasions": [
+      "Hair of the dog brunch",
+      "Vintage cocktail revival"
+    ],
+    "season": "All",
+    "vibe": "Silky, rich, old-world luxury",
+    "skillLevelNeeded": "Intermediate",
+    "ratingAvg": 4.3,
+    "ratingCount": 380,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Unknown",
+    "createdYear": 1934,
+    "nameOrigin": "German-Yiddish term for a scrambled egg hash; applied to this egg-rich drink",
+    "history": "Appeared in 1934 in 'The Old Waldorf-Astoria Bar Book' and later in Crosby Gaige’s 1940s guides. A rare whole-egg sour that predates the modern craft revival of egg drinks.",
+    "funFacts": [
+      "One of the few classic cocktails that uses a whole egg (yolk + white)",
+      "Almost disappeared until revived by modern bartenders"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "whole egg",
+        "forgotten classic",
+        "apricot brandy"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Dry shake hard—whole egg needs more agitation than just white",
+      "Use pasteurized egg if concerned about safety",
+      "Real apricot liqueur (not apricot-flavored brandy) is essential"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Protein from egg, but raw egg risk"
+    }
+  },
+  {
+    "id": "horses_neck_015",
+    "name": "Horse's Neck",
+    "alternateNames": [
+      "Horse’s Neck with a Kick"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Highball",
+      "Long"
+    ],
+    "imageUrl": "images/horses_neck.jpg",
+    "thumbnailUrl": "thumbs/horses_neck.png",
+    "drinkColor": "Golden with lemon spiral",
+    "mood": [
+      "Crisp",
+      "Casual",
+      "Thirst-quenching"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Brandy or Bourbon",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Ginger Ale",
+        "quantity": 120,
+        "unit": "ml",
+        "type": "soda"
+      },
+      {
+        "name": "Angostura Bitters (optional)",
+        "quantity": 2,
+        "unit": "dash",
+        "type": "bitter"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lemon Peel Spiral",
+        "type": "citrus",
+        "use": "Long spiral hanging over the rim like a horse’s neck"
+      }
+    ],
+    "instructions": [
+      "Peel a whole lemon in one continuous spiral.",
+      "Coil the peel inside a highball or collins glass, letting it hang over the rim.",
+      "Fill glass with ice cubes.",
+      "Pour brandy and top with chilled ginger ale.",
+      "Add bitters if desired, stir gently."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Highball glass",
+    "iceType": "Cubes",
+    "garnish": "Long lemon spiral",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 3,
+      "sourness": 2,
+      "strength": 5,
+      "refreshing": 9,
+      "flavorNotes": [
+        "Ginger",
+        "Lemon oil",
+        "Brandy fruit",
+        "Spice"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Lemon oil",
+        "Ginger"
+      ],
+      "secondary": [
+        "Brandy",
+        "Bitters"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 14,
+    "totalAlcoholML": 16,
+    "baseSpirits": [
+      "Brandy"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "carbs": 22,
+      "sugar": 20
+    },
+    "equipmentNeeded": [
+      "Channel knife",
+      "Bar spoon"
+    ],
+    "bestOccasions": [
+      "Summer afternoon",
+      "Pre-dinner",
+      "Casual bar"
+    ],
+    "season": "Summer",
+    "vibe": "Classic, breezy, and effortlessly cool",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.4,
+    "ratingCount": 2100,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Unknown",
+    "createdYear": 1890,
+    "nameOrigin": "The long lemon peel hanging over the glass resembles a horse’s neck",
+    "history": "Started in the 1890s as a non-alcoholic ginger ale with lemon peel. By 1910, brandy (or bourbon) was added, turning it into one of the earliest highballs. Became an official IBA cocktail in The Unforgettables category.",
+    "funFacts": [
+      "Originally a soft drink before spirits were added",
+      "Longest continuously listed cocktail in history"
+    ],
+    "variations": [
+      {
+        "name": "Bourbon Horse’s Neck",
+        "difference": "Uses bourbon instead of brandy"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "iba",
+        "highball",
+        "lemon spiral",
+        "ginger ale"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a good spicy ginger ale (Fever-Tree or Blenheim)",
+      "The lemon spiral is the star—practice your channel knife technique",
+      "Two dashes of Angostura make it a 'Horse’s Neck with a Kick'"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": true,
+      "notes": "Relatively light and refreshing"
+    }
+  },
+  {
+    "id": "incredible_hulk_016",
+    "name": "Incredible Hulk",
+    "alternateNames": [
+      "Hulk Smash",
+      "Green Beast"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Party",
+      "Shooter",
+      "2000s",
+      "Color-changing"
+    ],
+    "imageUrl": "images/incredible_hulk.jpg",
+    "thumbnailUrl": "thumbs/incredible_hulk.png",
+    "drinkColor": "Bright neon green",
+    "mood": [
+      "Wild",
+      "Playful",
+      "Turnt"
+    ],
+    "warnings": [
+      "Very sweet and strong"
+    ],
+    "ingredients": [
+      {
+        "name": "Hennessy Cognac",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Hpnotiq Liqueur",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [],
+    "instructions": [
+      "Fill a rocks glass with ice.",
+      "Pour equal parts Hennessy and Hpnotiq.",
+      "Stir gently—the clear liquids magically turn bright green."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 1,
+    "servings": 1,
+    "glassType": "Rocks glass",
+    "iceType": "Cubes",
+    "garnish": "None",
+    "tasteProfile": {
+      "sweetness": 9,
+      "bitterness": 0,
+      "sourness": 2,
+      "strength": 7,
+      "refreshing": 6,
+      "flavorNotes": [
+        "Tropical fruit punch",
+        "Passionfruit",
+        "Mango",
+        "Grape"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Tropical fruit",
+        "Citrus"
+      ],
+      "secondary": [
+        "Cognac"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 23,
+    "totalAlcoholML": 26,
+    "baseSpirits": [
+      "Cognac",
+      "Hpnotiq"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "carbs": 34,
+      "sugar": 32
+    },
+    "equipmentNeeded": [
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Club",
+      "House party",
+      "2000s night"
+    ],
+    "season": "All",
+    "vibe": "Early-2000s excess and neon energy",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.5,
+    "ratingCount": 4100,
+    "isFavorite": true,
+    "originCountry": "United States",
+    "creatorName": "Unknown (New York clubs)",
+    "createdYear": 2003,
+    "nameOrigin": "The drink turns bright green like Marvel’s Incredible Hulk",
+    "history": "Invented in 2003 at a New York City Hpnotiq launch party when a bartender mixed it with Hennessy. The color-changing effect made it an instant hit in hip-hop clubs and appeared in countless music videos.",
+    "funFacts": [
+      "The chemical reaction between Hpnotiq’s blue coloring and Hennessy’s amber creates the green color",
+      "Helped launch Hpnotiq into mainstream popularity"
+    ],
+    "variations": [
+      {
+        "name": "Hulk Shot",
+        "difference": "Served as a layered shooter"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "hennessy",
+        "hpnotiq",
+        "green drink",
+        "2000s"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Chill both bottles beforehand for best color reaction",
+      "Never shake—stirring preserves the magic",
+      "Perfect 1:1 ratio is key"
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Sugar bomb—pure party fuel"
+    }
+  },
+  {
+    "id": "jack_rose_017",
+    "name": "Jack Rose",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Pre-Prohibition",
+      "Applejack"
+    ],
+    "imageUrl": "images/jack_rose.jpg",
+    "thumbnailUrl": "thumbs/jack_rose.png",
+    "drinkColor": "Pale pink to rose",
+    "mood": [
+      "Bright",
+      "Classic",
+      "Crisp"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Applejack or Laird’s Bonded Apple Brandy",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lime Juice",
+        "quantity": 20,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Grenadine (real pomegranate)",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "syrup"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lime Twist",
+        "type": "citrus",
+        "use": "Expressed and dropped in"
+      }
+    ],
+    "instructions": [
+      "Add all ingredients into a shaker with ice.",
+      "Shake hard until well chilled.",
+      "Double strain into a chilled cocktail glass."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Cocktail glass",
+    "iceType": "Cubes",
+    "garnish": "Lime twist",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 1,
+      "sourness": 7,
+      "strength": 7,
+      "refreshing": 8,
+      "flavorNotes": [
+        "Green apple",
+        "Pomegranate",
+        "Tart lime",
+        "Orchard fruit"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Apple",
+        "Pomegranate"
+      ],
+      "secondary": [
+        "Lime",
+        "Brandy funk"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 28,
+    "totalAlcoholML": 24,
+    "baseSpirits": [
+      "Applejack"
+    ],
+    "nutrition": {
+      "calories": 185,
+      "carbs": 14,
+      "sugar": 12
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Fine strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Pre-dinner",
+      "Fall evening",
+      "Classic cocktail night"
+    ],
+    "season": "Fall",
+    "vibe": "Elegant, rosy, and timeless",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.6,
+    "ratingCount": 2400,
+    "isFavorite": true,
+    "originCountry": "United States",
+    "creatorName": "Unknown (possibly Frank J. May)",
+    "createdYear": 1905,
+    "nameOrigin": "Likely named after the gangster Jack Rose or the pink jacaranda flower",
+    "history": "One of the six basic drinks in David A. Embury’s 1948 'The Fine Art of Mixing Drinks'. A flagship cocktail of American applejack during the early 20th century, it was the most popular applejack drink before Prohibition nearly killed the spirit.",
+    "funFacts": [
+      "Helped keep Laird’s Apple Brandy in business during Prohibition",
+      "Featured in Hemingway’s 'The Sun Also Rises'"
+    ],
+    "variations": [
+      {
+        "name": "Jersey Jack Rose",
+        "difference": "Uses lemon juice instead of lime"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "applejack",
+        "iba",
+        "grenadine",
+        "pre-prohibition"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use Laird’s Bonded (100-proof) for authentic flavor and color",
+      "Homemade grenadine is essential—never rose’s sweetened lime",
+      "Shake vigorously to achieve a nice foam"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Real pomegranate antioxidants; relatively low calorie"
+    }
+  },
+  {
+    "id": "paradise_018",
+    "name": "Paradise",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Vintage",
+      "Apricot"
+    ],
+    "imageUrl": "images/paradise.jpg",
+    "thumbnailUrl": "thumbs/paradise.png",
+    "drinkColor": "Light orange",
+    "mood": [
+      "Sunny",
+      "Romantic",
+      "Elegant"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Gin",
+        "quantity": 45,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Apricot Brandy Liqueur",
+        "quantity": 20,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Orange Juice",
+        "quantity": 20,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "quantity": 10,
+        "unit": "ml",
+        "type": "juice"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Orange Slice",
+        "type": "citrus",
+        "use": "Half-wheel on rim"
+      }
+    ],
+    "instructions": [
+      "Add all ingredients into a shaker with ice.",
+      "Shake well until chilled.",
+      "Strain into a chilled cocktail glass."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Cocktail glass",
+    "iceType": "Cubes",
+    "garnish": "Orange half-wheel",
+    "tasteProfile": {
+      "sweetness": 7,
+      "bitterness": 1,
+      "sourness": 5,
+      "strength": 6,
+      "refreshing": 8,
+      "flavorNotes": [
+        "Apricot",
+        "Orange",
+        "Juniper",
+        "Citrus"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Orange",
+        "Apricot"
+      ],
+      "secondary": [
+        "Gin botanicals"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 24,
+    "totalAlcoholML": 17,
+    "baseSpirits": [
+      "Gin",
+      "Apricot Brandy"
+    ],
+    "nutrition": {
+      "calories": 195,
+      "carbs": 16,
+      "sugar": 14
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Brunch",
+      "Spring afternoon",
+      "Garden party"
+    ],
+    "season": "Spring",
+    "vibe": "Bright, fruity, and effortlessly chic",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.3,
+    "ratingCount": 1100,
+    "isFavorite": false,
+    "originCountry": "United Kingdom",
+    "creatorName": "Harry Craddock",
+    "createdYear": 1930,
+    "nameOrigin": "Evokes a taste of paradise with its apricot and citrus harmony",
+    "history": "Official IBA cocktail from Harry Craddock’s 1930 Savoy Cocktail Book. One of the earliest gin-and-juice style drinks, it was a favorite in London during the interwar years.",
+    "funFacts": [
+      "One of the few IBA classics that contains fresh orange juice",
+      "Precursor to many modern brunch cocktails"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "savoy",
+        "iba",
+        "apricot brandy",
+        "orange juice"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a London Dry gin to let the apricot shine",
+      "Real apricot brandy liqueur (Marie Brizard Apry or Rothman & Winter) is crucial",
+      "Fresh-squeezed orange juice makes a huge difference"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Vitamin C from fresh juices"
+    }
+  },
+  {
+    "id": "pisco_sour_019",
+    "name": "Pisco Sour",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "National drink",
+      "Sour"
+    ],
+    "imageUrl": "images/pisco_sour.jpg",
+    "thumbnailUrl": "thumbs/pisco_sour.png",
+    "drinkColor": "Pale cloudy green with white foam",
+    "mood": [
+      "Festive",
+      "Elegant",
+      "Celebratory"
+    ],
+    "warnings": [
+      "Contains raw egg white"
+    ],
+    "ingredients": [
+      {
+        "name": "Pisco (Peruvian or Chilean)",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lime Juice",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 20,
+        "unit": "ml",
+        "type": "syrup"
+      },
+      {
+        "name": "Egg White",
+        "quantity": 1,
+        "unit": "piece",
+        "type": "other"
+      },
+      {
+        "name": "Angostura Bitters",
+        "quantity": 3,
+        "unit": "dash",
+        "type": "bitter"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Angostura Bitters",
+        "type": "bitter",
+        "use": "Dashed on foam"
+      }
+    ],
+    "instructions": [
+      "Dry shake egg white vigorously.",
+      "Add pisco, lime juice, simple syrup, and ice; shake hard.",
+      "Double strain into a chilled old fashioned or Nick & Nora glass.",
+      "Dash Angostura bitters in a pattern on the foam."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 4,
+    "servings": 1,
+    "glassType": "Old Fashioned glass",
+    "iceType": "None (served up)",
+    "garnish": "Angostura bitters on foam",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 2,
+      "sourness": 8,
+      "strength": 6,
+      "refreshing": 9,
+      "flavorNotes": [
+        "Grape",
+        "Lime",
+        "Silky egg",
+        "Aromatic spice"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Lime",
+        "Pisco grape"
+      ],
+      "secondary": [
+        "Bitters",
+        "Egg foam"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 22,
+    "totalAlcoholML": 18,
+    "baseSpirits": [
+      "Pisco"
+    ],
+    "nutrition": {
+      "calories": 195,
+      "carbs": 18,
+      "sugar": 16
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Fine strainer",
+      "Dropper"
+    ],
+    "bestOccasions": [
+      "Celebration",
+      "Peruvian/Chilean night",
+      "Summer party"
+    ],
+    "season": "All",
+    "vibe": "Velvety, iconic, and proudly South American",
+    "skillLevelNeeded": "Intermediate",
+    "ratingAvg": 4.8,
+    "ratingCount": 5200,
+    "isFavorite": true,
+    "originCountry": "Peru",
+    "creatorName": "Victor Vaughen Morris",
+    "createdYear": 1916,
+    "nameOrigin": "Pisco brandy + sour format",
+    "history": "Invented around 1916–1920 by American expat Victor Morris in Lima, Peru. Refined by his bartender Mario Bruiget, it became Peru’s national drink and an IBA official cocktail. Chile also claims it, sparking a friendly rivalry.",
+    "funFacts": [
+      "Peru has a national Pisco Sour Day (first Saturday of February)",
+      "The foam is so important it’s considered part of the garnish"
+    ],
+    "variations": [
+      {
+        "name": "Chilean Pisco Sour",
+        "difference": "Uses Chilean pisco and sometimes lemon instead of lime"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "peru",
+        "pisco",
+        "iba",
+        "egg white",
+        "national drink"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use Peruvian quebranta or acholado pisco for authenticity",
+      "Dry shake at least 15 seconds for perfect foam",
+      "Three artistic dashes of bitters are traditional"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Protein from egg white; vitamin C from lime"
+    }
+  },
+  {
+    "id": "porto_flip_020",
+    "name": "Porto Flip",
+    "alternateNames": [
+      "Port Flip",
+      "Coffee Cocktail (historical)"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Flip",
+      "Dessert"
+    ],
+    "imageUrl": "images/porto_flip.jpg",
+    "thumbnailUrl": "thumbs/porto_flip.png",
+    "drinkColor": "Deep reddish-brown",
+    "mood": [
+      "Cozy",
+      "Victorian",
+      "After-dinner"
+    ],
+    "warnings": [
+      "Contains raw egg"
+    ],
+    "ingredients": [
+      {
+        "name": "Ruby or Tawny Port",
+        "quantity": 45,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Brandy",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Whole Egg",
+        "quantity": 1,
+        "unit": "piece",
+        "type": "other"
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 10,
+        "unit": "ml",
+        "type": "syrup"
+      },
+      {
+        "name": "Nutmeg",
+        "quantity": 1,
+        "unit": "pinch",
+        "type": "spice"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Nutmeg",
+        "type": "spice",
+        "use": "Freshly grated on top"
+      }
+    ],
+    "instructions": [
+      "Dry shake the whole egg vigorously.",
+      "Add port, brandy, syrup, and ice; shake hard.",
+      "Double strain into a chilled small port or cocktail glass.",
+      "Grate fresh nutmeg over the top."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 4,
+    "servings": 1,
+    "glassType": "Small wine glass or coupe",
+    "iceType": "None (served up)",
+    "garnish": "Freshly grated nutmeg",
+    "tasteProfile": {
+      "sweetness": 8,
+      "bitterness": 1,
+      "sourness": 0,
+      "strength": 5,
+      "refreshing": 3,
+      "flavorNotes": [
+        "Raisin",
+        "Fig",
+        "Caramel",
+        "Nutmeg",
+        "Rich egg"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Nutmeg",
+        "Port wine"
+      ],
+      "secondary": [
+        "Brandy",
+        "Egg"
+      ],
+      "intensity": 7
+    },
+    "alcoholPercentage": 16,
+    "totalAlcoholML": 12,
+    "baseSpirits": [
+      "Port",
+      "Brandy"
+    ],
+    "nutrition": {
+      "calories": 230,
+      "carbs": 20,
+      "sugar": 18
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Grater"
+    ],
+    "bestOccasions": [
+      "After dinner",
+      "Winter night",
+      "Victorian theme"
+    ],
+    "season": "Winter",
+    "vibe": "Rich, old-world comfort",
+    "skillLevelNeeded": "Intermediate",
+    "ratingAvg": 4.4,
+    "ratingCount": 980,
+    "isFavorite": false,
+    "originCountry": "United Kingdom",
+    "creatorName": "Jerry Thomas (variant)",
+    "createdYear": 1862,
+    "nameOrigin": "A flip made with port wine instead of usual spirits",
+    "history": "Appears in Jerry Thomas’ 1862 book as a variation on the classic flip. Became an official IBA cocktail in the 20th century. Despite the name 'Coffee Cocktail' in some old books, it contains no coffee—only looks like one.",
+    "funFacts": [
+      "One of the oldest documented flip styles",
+      "Was mistakenly called 'Coffee Cocktail' because of its color"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "flip",
+        "port wine",
+        "iba",
+        "whole egg"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a rich ruby port for deeper flavor",
+      "Dry shake extra hard with whole egg",
+      "Serve in a small glass—rich and intense"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": true,
+      "notes": "Protein from egg; high sugar from port"
+    }
+  },
+  {
+    "id": "savoy_affair_021",
+    "name": "Savoy Affair",
+    "alternateNames": [
+      "Savoy Hotel Affair"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Vintage",
+      "Savoy",
+      "Rare",
+      "Strawberry"
+    ],
+    "imageUrl": "images/savoy_affair.jpg",
+    "thumbnailUrl": "thumbs/savoy_affair.png",
+    "drinkColor": "Pale pink",
+    "mood": [
+      "Romantic",
+      "Luxurious",
+      "Nostalgic"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 45,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Crème de Fraise (Strawberry Liqueur)",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Crème de Banane",
+        "quantity": 7.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Champagne or Sparkling Wine",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Fresh Strawberry",
+        "type": "fruit",
+        "use": "Half on rim"
+      }
+    ],
+    "instructions": [
+      "Shake cognac, strawberry liqueur, banana liqueur, and lime juice with ice.",
+      "Strain into a chilled flute or coupe.",
+      "Top carefully with chilled Champagne.",
+      "Garnish with a fresh strawberry."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Champagne flute",
+    "iceType": "None (served up)",
+    "garnish": "Fresh strawberry",
+    "tasteProfile": {
+      "sweetness": 8,
+      "bitterness": 0,
+      "sourness": 4,
+      "strength": 5,
+      "refreshing": 9,
+      "flavorNotes": [
+        "Strawberry",
+        "Banana",
+        "Grape",
+        "Bubbles",
+        "Citrus"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Strawberry",
+        "Champagne"
+      ],
+      "secondary": [
+        "Banana",
+        "Cognac"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 18,
+    "totalAlcoholML": 18,
+    "baseSpirits": [
+      "Cognac",
+      "Strawberry Liqueur"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "carbs": 18,
+      "sugar": 16
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Anniversary",
+      "Valentine’s Day",
+      "Hotel bar"
+    ],
+    "season": "Spring",
+    "vibe": "Opulent 1930s glamour",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.5,
+    "ratingCount": 580,
+    "isFavorite": false,
+    "originCountry": "United Kingdom",
+    "creatorName": "Harry Craddock",
+    "createdYear": 1930,
+    "nameOrigin": "Created at The Savoy Hotel, London – an “affair” of luxurious ingredients",
+    "history": "Published in Harry Craddock’s 1930 The Savoy Cocktail Book. A rare sparkling cocktail from the golden age that combines cognac with strawberry and banana liqueurs – a decadent celebration drink from one of the world’s most famous hotel bars.",
+    "funFacts": [
+      "One of the few Savoy originals that tops with Champagne",
+      "Almost disappeared until the 2010s craft revival"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "savoy",
+        "champagne",
+        "strawberry",
+        "1930s"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use Giffard Crème de Fraise des Bois for authentic wild-strawberry flavor",
+      "Chill the Champagne thoroughly to preserve bubbles",
+      "Pour the sparkling wine slowly to avoid overflow"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": true,
+      "notes": "Celebratory treat with fresh fruit notes"
+    }
+  },
+  {
+    "id": "savoy_corpse_revivor_022",
+    "name": "Savoy Corpse Reviver",
+    "alternateNames": [
+      "Corpse Reviver No. 2 (Savoy Version)"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Hair-of-the-dog",
+      "Savoy"
+    ],
+    "imageUrl": "images/savoy_corpse_revivor.jpg",
+    "thumbnailUrl": "thumbs/savoy_corpse_revivor.png",
+    "drinkColor": "Pale cloudy green-gold",
+    "mood": [
+      "Reviving",
+      "Mysterious",
+      "Morning-after"
+    ],
+    "warnings": [
+      "Harry Craddock warned: 'Four taken in quick succession will unrevive the corpse again'"
+    ],
+    "ingredients": [
+      {
+        "name": "Gin",
+        "quantity": 22.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Cointreau",
+        "quantity": 22.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Lillet Blanc",
+        "quantity": 22.5,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "quantity": 22.5,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Absinthe",
+        "quantity": 1,
+        "unit": "dash",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lemon Zest",
+        "type": "citrus",
+        "use": "Discarded"
+      }
+    ],
+    "instructions": [
+      "Rinse a chilled coupe with absinthe and discard excess.",
+      "Add all remaining ingredients to a shaker with ice.",
+      "Shake hard and double strain into the absinthe-rinsed glass.",
+      "Express lemon zest over surface and discard."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Coupe glass",
+    "iceType": "Cubes",
+    "garnish": "None (lemon zest discarded)",
+    "tasteProfile": {
+      "sweetness": 5,
+      "bitterness": 3,
+      "sourness": 7,
+      "strength": 7,
+      "refreshing": 9,
+      "flavorNotes": [
+        "Lemon",
+        "Orange",
+        "Anise",
+        "Herbs",
+        "Wine"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Absinthe anise",
+        "Lemon oil"
+      ],
+      "secondary": [
+        "Gin juniper",
+        "Orange"
+      ],
+      "intensity": 9
+    },
+    "alcoholPercentage": 28,
+    "totalAlcoholML": 20,
+    "baseSpirits": [
+      "Gin",
+      "Cointreau",
+      "Lillet"
+    ],
+    "nutrition": {
+      "calories": 175,
+      "carbs": 12,
+      "sugar": 10
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Fine strainer",
+      "Atomizer (optional)"
+    ],
+    "bestOccasions": [
+      "Brunch",
+      "Morning-after cure",
+      "Halloween"
+    ],
+    "season": "All",
+    "vibe": "Legendary hangover cure with mythical status",
+    "skillLevelNeeded": "Intermediate",
+    "ratingAvg": 4.9,
+    "ratingCount": 6800,
+    "isFavorite": true,
+    "originCountry": "United Kingdom",
+    "creatorName": "Harry Craddock",
+    "createdYear": 1930,
+    "nameOrigin": "Corpse Reviver family of pre-Prohibition pick-me-ups; No.2 is the famous Savoy version",
+    "history": "The definitive version published in The Savoy Cocktail Book (1930) by Harry Craddock. Widely considered one of the greatest cocktails ever created and the only Corpse Reviver still regularly served. IBA official in The Unforgettables.",
+    "funFacts": [
+      "Frank Meier at the Paris Ritz claimed he invented it earlier",
+      "Considered the benchmark by which all modern cocktails are judged"
+    ],
+    "variations": [
+      {
+        "name": "Corpse Reviver No.1",
+        "difference": "Uses cognac, calvados, sweet vermouth – served up, no absinthe"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "savoy",
+        "corpse reviver",
+        "iba",
+        "absinthe",
+        "hangover cure"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Equal parts (except absinthe) is non-negotiable",
+      "Cocchi Americano or modern Lillet with quinine is closer to the 1930 original",
+      "Never skip the absinthe rinse – it makes the drink"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": true,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Vitamin C from lemon; legendary restorative"
+    }
+  },
+  {
+    "id": "sazerac_023",
+    "name": "Sazerac",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "New Orleans",
+      "Official cocktail of New Orleans"
+    ],
+    "imageUrl": "images/sazerac.jpg",
+    "thumbnailUrl": "thumbs/sazerac.png",
+    "drinkColor": "Deep amber",
+    "mood": [
+      "Serious",
+      "Historic",
+      "Contemplative"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Cognac or Rye Whiskey (original used Cognac)",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Absinthe (or Herbsaint/Pastis)",
+        "quantity": 5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Peychaud’s Bitters",
+        "quantity": 5,
+        "unit": "dash",
+        "type": "bitter"
+      },
+      {
+        "name": "Sugar Cube",
+        "quantity": 1,
+        "unit": "piece",
+        "type": "sweetener"
+      },
+      {
+        "name": "Water",
+        "quantity": 5,
+        "unit": "ml",
+        "type": "mix"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Lemon Peel",
+        "type": "citrus",
+        "use": "Expressed and discarded"
+      }
+    ],
+    "instructions": [
+      "Chill an old fashioned glass in the freezer.",
+      "In a mixing glass, muddle sugar cube with water and Peychaud’s bitters.",
+      "Add cognac and ice, stir until well chilled.",
+      "Rinse the chilled glass with absinthe and discard excess.",
+      "Strain the drink into the prepared glass.",
+      "Express lemon peel oils over surface and discard peel."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 5,
+    "servings": 1,
+    "glassType": "Old Fashioned glass",
+    "iceType": "None (served up)",
+    "garnish": "Lemon peel (expressed & discarded)",
+    "tasteProfile": {
+      "sweetness": 3,
+      "bitterness": 5,
+      "sourness": 1,
+      "strength": 9,
+      "refreshing": 4,
+      "flavorNotes": [
+        "Anise",
+        "Cherry",
+        "Spice",
+        "Grape",
+        "Herbs"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Absinthe anise",
+        "Lemon oil"
+      ],
+      "secondary": [
+        "Peychaud’s",
+        "Cognac"
+      ],
+      "intensity": 9
+    },
+    "alcoholPercentage": 38,
+    "totalAlcoholML": 24,
+    "baseSpirits": [
+      "Cognac"
+    ],
+    "nutrition": {
+      "calories": 170,
+      "carbs": 4,
+      "sugar": 4
+    },
+    "equipmentNeeded": [
+      "Mixing glass",
+      "Bar spoon",
+      "Strainer",
+      "Atomizer (optional)"
+    ],
+    "bestOccasions": [
+      "New Orleans night",
+      "Jazz bar",
+      "Serious cocktail hour"
+    ],
+    "season": "All",
+    "vibe": "The original American cocktail",
+    "skillLevelNeeded": "Advanced",
+    "ratingAvg": 4.9,
+    "ratingCount": 7200,
+    "isFavorite": true,
+    "originCountry": "United States",
+    "creatorName": "Antoine Peychaud (concept)",
+    "createdYear": 1850,
+    "nameOrigin": "Named after Sazerac de Forge et Fils cognac, the original base spirit",
+    "history": "Created circa 1850 in New Orleans using Sazerac cognac and Peychaud’s bitters. The phylloxera epidemic forced a switch to rye in the 1870s, but the original was cognac-based. Declared the official cocktail of New Orleans in 2008. IBA official.",
+    "funFacts": [
+      "Widely considered America’s first cocktail",
+      "Originally served in an egg-shaped coquetier glass – possible origin of the word 'cocktail'"
+    ],
+    "variations": [
+      {
+        "name": "Rye Sazerac",
+        "difference": "Modern version using rye whiskey instead of cognac"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "new orleans",
+        "iba",
+        "absinthe",
+        "peycauds",
+        "original cocktail"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use a good VSOP cognac for historical accuracy",
+      "Two glasses method (one for mixing, one for rinsing) is traditional",
+      "Never drop the lemon peel in – only express and discard"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": true,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Minimal sugar, high proof – pure spirit enjoyment"
+    }
+  },
+  {
+    "id": "sidecar_024",
+    "name": "Sidecar",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Sour",
+      "Golden Age"
+    ],
+    "imageUrl": "images/sidecar.jpg",
+    "thumbnailUrl": "thumbs/sidecar.png",
+    "drinkColor": "Golden amber",
+    "mood": [
+      "Elegant",
+      "Timeless",
+      "Celebratory"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 50,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Cointreau or Triple Sec",
+        "quantity": 20,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "quantity": 20,
+        "unit": "ml",
+        "type": "juice"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Sugar Rim",
+        "type": "other",
+        "use": "Half or full rim"
+      },
+      {
+        "name": "Orange Twist",
+        "type": "citrus",
+        "use": "Expressed over drink"
+      }
+    ],
+    "instructions": [
+      "Optionally sugar-rim a chilled coupe.",
+      "Add all ingredients to a shaker with ice.",
+      "Shake hard until well chilled.",
+      "Double strain into the prepared glass.",
+      "Express orange peel over surface."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Coupe glass",
+    "iceType": "Cubes",
+    "garnish": "Sugared rim & orange twist",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 1,
+      "sourness": 7,
+      "strength": 7,
+      "refreshing": 8,
+      "flavorNotes": [
+        "Orange",
+        "Lemon",
+        "Grape",
+        "Vanilla"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Orange oil",
+        "Lemon"
+      ],
+      "secondary": [
+        "Cognac oak",
+        "Triple sec"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 29,
+    "totalAlcoholML": 23,
+    "baseSpirits": [
+      "Cognac"
+    ],
+    "nutrition": {
+      "calories": 195,
+      "carbs": 14,
+      "sugar": 12
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Fine strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Celebration",
+      "Date night",
+      "Classic cocktail bar"
+    ],
+    "season": "All",
+    "vibe": "The pinnacle of elegant simplicity",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.8,
+    "ratingCount": 8900,
+    "isFavorite": true,
+    "originCountry": "France",
+    "creatorName": "Unknown (Paris or London)",
+    "createdYear": 1922,
+    "nameOrigin": "Named after a patron who arrived at the bar in a motorcycle sidecar",
+    "history": "Born during World War I in Paris or London (Harry’s New York Bar and The Ritz both claim it). First printed in 1922. The perfect balance of spirit, citrus, and orange liqueur – considered one of the greatest cocktails ever created. Official IBA Unforgettables.",
+    "funFacts": [
+      "The only cocktail with two competing origin cities – Paris and London",
+      "Ratio debate (2:1:1 vs 3:2:1) has raged for a century"
+    ],
+    "variations": [
+      {
+        "name": "Boston Sidecar",
+        "difference": "Adds rum and uses lime juice"
+      },
+      {
+        "name": "Chelsea Sidecar",
+        "difference": "Uses gin instead of cognac"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "iba",
+        "cognac sour",
+        "golden ratio",
+        "classic"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use VSOP cognac and Cointreau for best results",
+      "The French school uses 2:1:1 ratio; American prefers 3:2:1",
+      "Sugar rim is optional but traditional in many bars"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Vitamin C from fresh lemon"
+    }
+  },
+  {
+    "id": "singapore_sling_025",
+    "name": "Singapore Sling",
+    "alternateNames": [
+      "Raffles Sling",
+      "Straits Sling"
+    ],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Tiki",
+      "Tropical",
+      "Long drink"
+    ],
+    "imageUrl": "images/singapore_sling.jpg",
+    "thumbnailUrl": "thumbs/singapore_sling.png",
+    "drinkColor": "Bright pink-red",
+    "mood": [
+      "Exotic",
+      "Festive",
+      "Colonial"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Gin",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Cherry Heering (Cherry Brandy Liqueur)",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Bénédictine",
+        "quantity": 7.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Cointreau",
+        "quantity": 7.5,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Fresh Lime Juice",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Fresh Pineapple Juice",
+        "quantity": 120,
+        "unit": "ml",
+        "type": "juice"
+      },
+      {
+        "name": "Grenadine",
+        "quantity": 10,
+        "unit": "ml",
+        "type": "syrup"
+      },
+      {
+        "name": "Angostura Bitters",
+        "quantity": 1,
+        "unit": "dash",
+        "type": "bitter"
+      },
+      {
+        "name": "Soda Water",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "soda"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Pineapple Slice",
+        "type": "fruit",
+        "use": "On rim"
+      },
+      {
+        "name": "Maraschino Cherry",
+        "type": "fruit",
+        "use": "On pick"
+      }
+    ],
+    "instructions": [
+      "Pour all ingredients except soda into a shaker with ice.",
+      "Shake well.",
+      "Strain into a tall highball or hurricane glass filled with ice.",
+      "Top with soda water.",
+      "Garnish lavishly with pineapple and cherry."
+    ],
+    "difficulty": "Medium",
+    "timeToPrepare": 5,
+    "servings": 1,
+    "glassType": "Hurricane or Highball glass",
+    "iceType": "Cubes",
+    "garnish": "Pineapple slice and maraschino cherry",
+    "tasteProfile": {
+      "sweetness": 8,
+      "bitterness": 2,
+      "sourness": 5,
+      "strength": 5,
+      "refreshing": 9,
+      "flavorNotes": [
+        "Pineapple",
+        "Cherry",
+        "Citrus",
+        "Herbal",
+        "Spice"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Pineapple",
+        "Cherry"
+      ],
+      "secondary": [
+        "Bénédictine herbs",
+        "Gin juniper"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 14,
+    "totalAlcoholML": 15,
+    "baseSpirits": [
+      "Gin",
+      "Cherry Heering",
+      "Bénédictine"
+    ],
+    "nutrition": {
+      "calories": 265,
+      "carbs": 38,
+      "sugar": 34
+    },
+    "equipmentNeeded": [
+      "Shaker",
+      "Strainer",
+      "Jigger"
+    ],
+    "bestOccasions": [
+      "Tiki party",
+      "Summer evening",
+      "Hotel bar"
+    ],
+    "season": "Summer",
+    "vibe": "Colonial tropical glamour",
+    "skillLevelNeeded": "Intermediate",
+    "ratingAvg": 4.7,
+    "ratingCount": 9800,
+    "isFavorite": true,
+    "originCountry": "Singapore",
+    "creatorName": "Ngiam Tong Boon",
+    "createdYear": 1915,
+    "nameOrigin": "Created at the Long Bar of Raffles Hotel, Singapore – originally disguised as a “fruit punch” for ladies",
+    "history": "Invented by bartender Ngiam Tong Boon at Raffles Hotel’s Long Bar around 1915. Originally a pink gin sling for women to drink discreetly in public. The exact original recipe was lost until rediscovered in 2010s hotel archives. Official IBA Unforgettables cocktail.",
+    "funFacts": [
+      "Peanuts are traditionally served at the Long Bar so guests throw shells on the floor",
+      "Over 1 million Singapore Slings are served at Raffles every year"
+    ],
+    "variations": [
+      {
+        "name": "Straits Sling",
+        "difference": "Omits pineapple juice and soda, uses dry cherry brandy"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "raffles",
+        "iba",
+        "tropical",
+        "long drink",
+        "cherry heering"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use Cherry Heering, not generic cherry brandy",
+      "Fresh pineapple juice is non-negotiable",
+      "The Raffles original is slightly less sweet than most bar versions"
+    ],
+    "healthProfile": {
+      "healthyStar": 3,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": true,
+      "notes": "Vitamin C from pineapple and lime"
+    }
+  },
+  {
+    "id": "stinger_026",
+    "name": "Stinger",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Classic",
+      "IBA",
+      "Digestif",
+      "Two-ingredient"
+    ],
+    "imageUrl": "images/stinger.jpg",
+    "thumbnailUrl": "thumbs/stinger.png",
+    "drinkColor": "Clear pale green (with white crème de menthe)",
+    "mood": [
+      "Sophisticated",
+      "Retro",
+      "After-dinner"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 60,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "White Crème de Menthe",
+        "quantity": 20,
+        "unit": "ml",
+        "type": "alcohol"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Mint Sprig",
+        "type": "herb",
+        "use": "Slapped and floated"
+      }
+    ],
+    "instructions": [
+      "Add cognac and crème de menthe to a mixing glass with ice.",
+      "Stir until well chilled.",
+      "Strain into a chilled cocktail glass or over crushed ice in a rocks glass."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 2,
+    "servings": 1,
+    "glassType": "Cocktail glass or Rocks glass",
+    "iceType": "Crushed or cubes",
+    "garnish": "Mint sprig (optional)",
+    "tasteProfile": {
+      "sweetness": 8,
+      "bitterness": 0,
+      "sourness": 0,
+      "strength": 7,
+      "refreshing": 6,
+      "flavorNotes": [
+        "Mint",
+        "Peppermint",
+        "Grape",
+        "Vanilla"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Mint",
+        "Peppermint"
+      ],
+      "secondary": [
+        "Cognac oak"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 30,
+    "totalAlcoholML": 22,
+    "baseSpirits": [
+      "Cognac"
+    ],
+    "nutrition": {
+      "calories": 225,
+      "carbs": 18,
+      "sugar": 18
+    },
+    "equipmentNeeded": [
+      "Mixing glass",
+      "Bar spoon",
+      "Strainer"
+    ],
+    "bestOccasions": [
+      "After dinner",
+      "Yacht club",
+      "1960s lounge"
+    ],
+    "season": "All",
+    "vibe": "Mad Men-era cool",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.2,
+    "ratingCount": 1900,
+    "isFavorite": false,
+    "originCountry": "United States",
+    "creatorName": "Unknown",
+    "createdYear": 1890,
+    "nameOrigin": "The minty kick “stings” the palate like a bee",
+    "history": "One of the oldest known cocktails featuring crème de menthe. Popular among American high society and billionaires like Reginald Vanderbilt in the early 20th century. Became the signature drink of the 1950s–60s jet set. Official IBA Unforgettables.",
+    "funFacts": [
+      "James Bond orders a Stinger in two Ian Fleming novels",
+      "Was considered a 'manly' mint drink before mint cocktails became sweet"
+    ],
+    "variations": [
+      {
+        "name": "Vodka Stinger",
+        "difference": "Substitutes vodka for cognac – more common today"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "iba",
+        "crème de menthe",
+        "digestif",
+        "two ingredient"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Use white crème de menthe – green is artificial",
+      "Serve up in a coupe for elegance or crushed ice for refreshment",
+      "Use a good VSOP or XO cognac – it’s half the drink"
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Pure liqueur + spirit indulgence"
+    }
+  },
+  {
+    "id": "the_blenheim_027",
+    "name": "The Blenheim",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Modern-classic",
+      "London",
+      "Herbal",
+      "Savoy-inspired"
+    ],
+    "imageUrl": "images/the_blenheim.jpg",
+    "thumbnailUrl": "thumbs/the_blenheim.png",
+    "drinkColor": "Golden amber",
+    "mood": [
+      "Refined",
+      "Autumnal",
+      "Thoughtful"
+    ],
+    "warnings": [],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 45,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Yellow Chartreuse",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Lillet Blanc",
+        "quantity": 15,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Orange Bitters",
+        "quantity": 2,
+        "unit": "dash",
+        "type": "bitter"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Orange Twist",
+        "type": "citrus",
+        "use": "Expressed over drink"
+      }
+    ],
+    "instructions": [
+      "Stir all ingredients with ice until perfectly chilled.",
+      "Strain into a chilled Nick & Nora or coupe glass.",
+      "Express orange oils over the surface."
+    ],
+    "difficulty": "Easy",
+    "timeToPrepare": 3,
+    "servings": 1,
+    "glassType": "Nick & Nora glass",
+    "iceType": "Cubes",
+    "garnish": "Orange twist",
+    "tasteProfile": {
+      "sweetness": 6,
+      "bitterness": 3,
+      "sourness": 1,
+      "strength": 8,
+      "refreshing": 5,
+      "flavorNotes": [
+        "Honey",
+        "Herbs",
+        "Floral",
+        "Grape",
+        "Citrus"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Yellow Chartreuse herbs",
+        "Orange"
+      ],
+      "secondary": [
+        "Cognac",
+        "Wine"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 34,
+    "totalAlcoholML": 22,
+    "baseSpirits": [
+      "Cognac",
+      "Yellow Chartreuse"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "carbs": 12,
+      "sugar": 11
+    },
+    "equipmentNeeded": [
+      "Mixing glass",
+      "Bar spoon",
+      "Strainer"
+    ],
+    "bestOccasions": [
+      "After dinner",
+      "London hotel bar",
+      "Quiet contemplation"
+    ],
+    "season": "Fall",
+    "vibe": "Aristocratic elegance",
+    "skillLevelNeeded": "Beginner",
+    "ratingAvg": 4.7,
+    "ratingCount": 820,
+    "isFavorite": false,
+    "originCountry": "United Kingdom",
+    "creatorName": "Erik Lorincz",
+    "createdYear": 2010,
+    "nameOrigin": "Named after Blenheim Palace, birthplace of Winston Churchill",
+    "history": "Created in 2010 by Erik Lorincz at the American Bar, Savoy Hotel, London. A modern masterpiece that bridges classic cognac tradition with herbal complexity. Quickly became a contemporary classic in top bars worldwide.",
+    "funFacts": [
+      "Won multiple international cocktail awards",
+      "Yellow Chartreuse is the star – use Green and it becomes a different drink"
+    ],
+    "variations": [],
+    "metadata": {
+      "keywords": [
+        "savoy",
+        "yellow chartreuse",
+        "modern classic",
+        "lillet"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Stir for at least 40 seconds – dilution is crucial",
+      "Use a high-quality VSOP cognac",
+      "Regans’ or Fee Brothers orange bitters work best"
+    ],
+    "healthProfile": {
+      "healthyStar": 2,
+      "lowSugar": false,
+      "lowCalories": true,
+      "lowAlcohol": false,
+      "notes": "Herbal digestif properties"
+    }
+  },
+  {
+    "id": "tom_and_jerry_028",
+    "name": "Tom and Jerry",
+    "alternateNames": [],
+    "category": "Brandy",
+    "type": "Alcoholic",
+    "tags": [
+      "Holiday",
+      "Winter",
+      "Batter",
+      "Hot",
+      "Classic"
+    ],
+    "imageUrl": "images/tom_and_jerry.jpg",
+    "thumbnailUrl": "thumbs/tom_and_jerry.png",
+    "drinkColor": "Creamy beige with nutmeg",
+    "mood": [
+      "Festive",
+      "Cozy",
+      "Nostalgic"
+    ],
+    "warnings": [
+      "Contains raw egg"
+    ],
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Dark Rum",
+        "quantity": 30,
+        "unit": "ml",
+        "type": "alcohol"
+      },
+      {
+        "name": "Tom & Jerry Batter (see below)",
+        "quantity": 60,
+        "unit": "g",
+        "type": "other"
+      },
+      {
+        "name": "Hot Milk or Water",
+        "quantity": 120,
+        "unit": "ml",
+        "type": "mix"
+      },
+      {
+        "name": "Nutmeg",
+        "quantity": 1,
+        "unit": "pinch",
+        "type": "spice"
+      }
+    ],
+    "garnishOptions": [
+      {
+        "name": "Nutmeg",
+        "type": "spice",
+        "use": "Freshly grated on top"
+      }
+    ],
+    "instructions": [
+      "Prepare batter in advance: beat egg whites to stiff peaks, beat yolks with sugar and spices, fold together.",
+      "Add 2 tbsp batter to a preheated mug.",
+      "Pour in cognac and rum.",
+      "Top with hot milk or water while stirring vigorously.",
+      "Grate fresh nutmeg on top."
+    ],
+    "difficulty": "Hard",
+    "timeToPrepare": 15,
+    "servings": 1,
+    "glassType": "Tom & Jerry mug or Irish coffee mug",
+    "iceType": "None",
+    "garnish": "Freshly grated nutmeg",
+    "tasteProfile": {
+      "sweetness": 8,
+      "bitterness": 0,
+      "sourness": 0,
+      "strength": 6,
+      "refreshing": 2,
+      "flavorNotes": [
+        "Vanilla",
+        "Nutmeg",
+        "Cinnamon",
+        "Eggnog",
+        "Rum spice"
+      ]
+    },
+    "aromaProfile": {
+      "primary": [
+        "Nutmeg",
+        "Cinnamon"
+      ],
+      "secondary": [
+        "Brandy",
+        "Rum"
+      ],
+      "intensity": 8
+    },
+    "alcoholPercentage": 18,
+    "totalAlcoholML": 16,
+    "baseSpirits": [
+      "Cognac",
+      "Dark Rum"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "carbs": 28,
+      "sugar": 26
+    },
+    "equipmentNeeded": [
+      "Batter bowl",
+      "Mixer",
+      "Mug"
+    ],
+    "bestOccasions": [
+      "Christmas Eve",
+      "New Year’s",
+      "Winter party"
+    ],
+    "season": "Winter",
+    "vibe": "Victorian holiday warmth",
+    "skillLevelNeeded": "Expert",
+    "ratingAvg": 4.8,
+    "ratingCount": 2100,
+    "isFavorite": true,
+    "originCountry": "United States",
+    "creatorName": "Jerry Thomas (popularized)",
+    "createdYear": 1862,
+    "nameOrigin": "Named after the bartender’s alter egos or the famous cat-and-mouse cartoon (debated)",
+    "history": "First published by Jerry Thomas in 1862. A holiday staple across the American Midwest for over a century, served in punch bowls at Christmas parties. The batter is prepared in advance and served hot with cognac and rum.",
+    "funFacts": [
+      "Was the original American holiday punch before eggnog dominated",
+      "Special Tom & Jerry bowl sets were common wedding gifts in the 1940s–50s"
+    ],
+    "variations": [
+      {
+        "name": "Rum Tom and Jerry",
+        "difference": "Omits cognac, doubles rum"
+      }
+    ],
+    "metadata": {
+      "keywords": [
+        "holiday",
+        "hot",
+        "batter",
+        "christmas",
+        "jerry thomas"
+      ],
+      "updatedAt": "2025-12-01T12:00:00Z",
+      "addedByUser": false
+    },
+    "tips": [
+      "Make batter the day before for best texture",
+      "Use boiling water if you want a lighter version",
+      "Keep batter refrigerated and serve within 24 hours"
+    ],
+    "healthProfile": {
+      "healthyStar": 1,
+      "lowSugar": false,
+      "lowCalories": false,
+      "lowAlcohol": false,
+      "notes": "Rich holiday indulgence; raw egg risk"
+    }
+  }
+]

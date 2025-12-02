@@ -77,6 +77,8 @@
         "Liqueur",
         "Wine",
         "Beer",
+        "Mezcal",
+        "Cachaça",
         "Non-Alcoholic",
         "Mixed"
       ],
@@ -183,7 +185,9 @@
               "other",
               "spice",
               "liqueur",
-              "herb"
+              "herb",
+              "citrus",
+              "fruit"
             ]
           }
         }
@@ -214,7 +218,8 @@
               "spice",
               "flower",
               "syrup",
-              "bitter"
+              "bitter",
+              "cream"
             ]
           },
           "use": {

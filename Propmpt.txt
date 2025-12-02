@@ -32,7 +32,7 @@ Return the data as valid JSON that conforms to the JSON Schema Draft-07 specific
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^[a-z_]+_\\d{3}$",
+      "pattern": "^[a-z0-9_]+_\\d{3}$",
       "description": "Format: [cocktail_name_lowercase]_###"
     },
     "name": {
@@ -45,7 +45,7 @@ Return the data as valid JSON that conforms to the JSON Schema Draft-07 specific
     },
     "category": {
       "type": "string",
-      "enum": ["Whiskey", "Vodka", "Gin", "Rum", "Tequila", "Brandy", "Liqueur", "Wine", "Beer", "Beer/Wine", "Non-Alcoholic", "Mixed"]
+      "enum": ["Whiskey", "Vodka", "Gin", "Rum", "Tequila", "Brandy", "Liqueur", "Wine", "Beer", "Mezcal", "Cachaça", "Non-Alcoholic", "Mixed"]
     },
     "type": {
       "type": "string",
@@ -92,7 +92,7 @@ Return the data as valid JSON that conforms to the JSON Schema Draft-07 specific
           },
           "type": {
             "type": "string",
-            "enum": ["alcohol", "bitter", "sweetener", "juice", "mix", "ice", "garnish", "soda", "syrup", "cream", "other"]
+            "enum": ["alcohol", "bitter", "sweetener", "juice", "mix", "ice", "garnish", "soda", "syrup", "cream", "other", "spice", "liqueur", "herb", "citrus", "fruit"]
           }
         }
       }
@@ -106,7 +106,7 @@ Return the data as valid JSON that conforms to the JSON Schema Draft-07 specific
           "name": {"type": "string", "minLength": 1},
           "type": {
             "type": "string",
-            "enum": ["citrus", "fruit", "herb", "vegetable", "other", "spice", "flower"]
+            "enum": ["citrus", "fruit", "herb", "vegetable", "other", "spice", "flower", "syrup", "bitter", "cream"]
           },
           "use": {"type": "string", "minLength": 1}
         }
@@ -168,7 +168,7 @@ Return the data as valid JSON that conforms to the JSON Schema Draft-07 specific
           "type": "array",
           "items": {"type": "string"}
         },
-        "intensity": {"type": "number", "minimum": 1, "maximum": 10}
+        "intensity": {"type": "number", "minimum": 0, "maximum": 10}
       }
     },
     "alcoholPercentage": {
@@ -285,7 +285,7 @@ Return the data as valid JSON that conforms to the JSON Schema Draft-07 specific
       "type": "object",
       "required": ["healthyStar", "lowSugar", "lowCalories", "lowAlcohol", "notes"],
       "properties": {
-        "healthyStar": {"type": "number", "minimum": 1, "maximum": 5},
+        "healthyStar": {"type": "number", "minimum": 0, "maximum": 5},
         "lowSugar": {"type": "boolean"},
         "lowCalories": {"type": "boolean"},
         "lowAlcohol": {"type": "boolean"},
@@ -300,8 +300,8 @@ Return the data as valid JSON that conforms to the JSON Schema Draft-07 specific
 ## Critical Schema Compliance Rules:
 
 ### ID Format:
-- Must match pattern: `^[a-z_]+_\d{3}$`
-- Example: `"margarita_001"`, `"old_fashioned_001"`
+- Must match pattern: `^[a-z0-9_]+_\d{3}$`
+- Example: `"margarita_001"`, `"old_fashioned_001"`, `"gin_pahit_001"`
 
 ### Image Paths:
 - **imageUrl**: Must start with `images/` and end with `.jpg`, `.jpeg`, `.png`, or `.webp`
@@ -309,22 +309,22 @@ Return the data as valid JSON that conforms to the JSON Schema Draft-07 specific
 - Use lowercase with underscores for filenames
 
 ### Enumerations (use EXACTLY these values):
-- **category**: Whiskey | Vodka | Gin | Rum | Tequila | Brandy | Liqueur | Wine | Beer | Beer/Wine | Non-Alcoholic | Mixed
+- **category**: Whiskey | Vodka | Gin | Rum | Tequila | Brandy | Liqueur | Wine | Beer | Mezcal | Cachaça | Non-Alcoholic | Mixed
 - **type**: Alcoholic | Non-Alcoholic | Mocktail
 - **difficulty**: Easy | Medium | Hard | Expert
 - **skillLevelNeeded**: Beginner | Intermediate | Advanced | Expert
 - **season**: Spring | Summer | Fall | Winter | All
 - **ingredients.unit**: ml | oz | dash | piece | drop | leaf | sprig | tsp | tbsp | cup | g | mg | pinch
-- **ingredients.type**: alcohol | bitter | sweetener | juice | mix | ice | garnish | soda | syrup | cream | other
-- **garnishOptions.type**: citrus | fruit | herb | vegetable | other | spice | flower
+- **ingredients.type**: alcohol | bitter | sweetener | juice | mix | ice | garnish | soda | syrup | cream | other | spice | liqueur | herb | citrus | fruit
+- **garnishOptions.type**: citrus | fruit | herb | vegetable | other | spice | flower | syrup | bitter | cream
 
 ### Numeric Constraints:
 - **tasteProfile** values: 0-10 (allows for zero values)
-- **aromaProfile.intensity**: 1-10
+- **aromaProfile.intensity**: 0-10
 - **ratingAvg**: 0-5
 - **alcoholPercentage**: 0-100
 - **createdYear**: 1000-2100
-- **healthProfile.healthyStar**: 1-5
+- **healthProfile.healthyStar**: 0-5
 
 ### Date Format:
 - **metadata.updatedAt**: Must be ISO 8601 format (e.g., `"2025-01-01T12:00:00Z"`)

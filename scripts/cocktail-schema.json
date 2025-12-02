@@ -50,8 +50,8 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^[a-z_]+_\\d{3}$",
-      "description": "Unique identifier in format: [cocktail_name_lowercase]_###"
+      "pattern": "^[a-z0-9_]+_\\d{3}$",
+      "description": "Unique identifier in format: [cocktail_name_lowercase_with_numbers]_###"
     },
     "name": {
       "type": "string",
@@ -101,12 +101,12 @@
     },
     "imageUrl": {
       "type": "string",
-      "pattern": "^images/[a-z_]+\\.(jpg|jpeg|png|webp)$",
+      "pattern": "^images/[a-z0-9_]+\\.(jpg|jpeg|png|webp)$",
       "description": "Path to full-size image"
     },
     "thumbnailUrl": {
       "type": "string",
-      "pattern": "^thumbs/[a-z_]+\\.(jpg|jpeg|png|webp)$",
+      "pattern": "^thumbs/[a-z0-9_]+\\.(jpg|jpeg|png|webp)$",
       "description": "Path to thumbnail image"
     },
     "drinkColor": {
@@ -182,7 +182,8 @@
               "cream",
               "other",
               "spice",
-              "liqueur"
+              "liqueur",
+              "herb"
             ]
           }
         }
